@@ -1,0 +1,1618 @@
+## intent:abbreviation
+- what is fare code [h](fare_basis_code)
+- what is booking class [c](fare_basis_code)
+- what does fare code [q](fare_basis_code) mean
+- what is fare code [qw](fare_basis_code)
+- what does the fare code [f](fare_basis_code) mean
+- what is fare code [h](fare_basis_code)
+- what does fare code [qw](fare_basis_code) mean
+- what does [mco](airport_code) stand for
+- what 's the difference between fare code [q](fare_basis_code) and fare code [f](fare_basis_code)
+- what is [mco](airport_code)
+- what is the [yn](fare_basis_code) code
+- what is [ord](airport_code)
+- what 's fare code [yn](fare_basis_code)
+- what does restriction [ap 57](restriction_code) mean
+- what is [bna](airport_code)
+- explain the restriction [ap 80](restriction_code)
+- what does the abbreviation [dl](airline_code) mean
+- what is the fare code [y](fare_basis_code) and what is the fare code [h](fare_basis_code)
+- what does [ua](airline_code) stand for
+- what is fare code [m](fare_basis_code)
+- what is [sa](days_code)
+- what does [fn](fare_basis_code) under fare code mean
+- what is [hp](airline_code)
+- what does fare code [qo](fare_basis_code) mean
+- what does the abbreviation [co](airline_code) mean
+- explain the restriction [ap 57](restriction_code)
+- what does [us](airline_code) stand for
+- what is [hp](airline_code)
+- define airline [us](airline_code)
+- code [ff](airline_code)
+- what does [ea](airline_code) mean
+- what does the abbreviation [ua](airline_code) mean
+- what does code [y](fare_basis_code) stand for
+- what is [bur](airport_code)
+- what does [ff](airline_code) mean
+- explain restriction [ap](restriction_code) please
+- what is restriction [ap 80](restriction_code)
+- what is restriction [ap 57](restriction_code)
+- what does [d s](meal_code) stand for for [meals](meal)
+- what is fare code [qo](fare_basis_code) mean
+- what is fare code [h](fare_basis_code)
+- what does [ewr](airport_code) stand for
+- what does [ls](meal_code) stand for
+- what is [mco](airport_code)
+- what does [ea](airline_code) mean
+- what does fare code [y](fare_basis_code) mean
+- what is the [ap 57](restriction_code) restriction
+- what does [s](meal_code) designate as a [meal](meal)
+- what does [hou](airport_code) mean
+- what 's the difference between fare code [q](fare_basis_code) and fare code [b](fare_basis_code)
+- fare code [y](fare_basis_code) what does that mean
+- what is [as](airline_code)
+- what does the fare code [yn](fare_basis_code) mean
+- what is the code for [business class](class_type)
+- what does the [meal](meal) code [s](meal_code) stand for
+- what is fare code [q](fare_basis_code)
+- what does restriction [ap 57](restriction_code)
+- what is the [yn](fare_basis_code) code
+- what is fare code [h](fare_basis_code)
+- what are fare codes [qw](fare_basis_code) and [qx](fare_basis_code)
+- what does restriction [ap 80](restriction_code) mean
+- what is restriction [ap 55](restriction_code)
+- what is [ewr](airport_code)
+- what is [ff](airline_code)
+- what is fare class [h](fare_basis_code)
+- show me what fare codes symbols stand for
+- what fare codes cover flights from [philadelphia](fromloc.city_name) to [san francisco](toloc.city_name)
+- what does [co](airline_code) mean
+- what does [y](fare_basis_code) mean
+- what does [mco](airport_code) mean
+- what is fare code [fn](fare_basis_code)
+- what does code [yn](fare_basis_code) mean
+- does [dl](airline_code) stand for [delta](airline_name)
+- what does [yn](fare_basis_code) stand for
+- what is [mco](airport_code)
+- what is [hp](airline_code)
+- what is the meaning of fare code [qx](fare_basis_code) and [qw](fare_basis_code)
+- what does the fare code [y](fare_basis_code) mean
+- what is fare code [h](fare_basis_code)
+- what is the meaning of [meal code s](meal_code)
+- what does the fare code [qx](fare_basis_code) mean
+- what is restriction [ap 57](restriction_code)
+- what is fare code [c](fare_basis_code)
+- explain the fare code [q](fare_basis_code)
+- what is [mia](airport_code)
+- what is the abbreviation for [canadian airlines international](airline_name)
+- what does [dfw](airport_code) mean
+- what is [sa](days_code)
+- what does [lax](airport_code) stand for
+- what does [nw](airline_code) stand for
+- what does fare code [y](fare_basis_code) mean
+- what is [dl](airline_code)
+- what is fare code [f](fare_basis_code)
+- does [dl](airline_code) stand for [delta](airline_name)
+- what does [ord](airport_code) mean
+- what is [sa](days_code)
+- what does fare code [qo](fare_basis_code) mean
+- what is the [ap57](restriction_code) restriction
+- what does [us](airline_code) mean
+- what is fare code [h](fare_basis_code)
+- could you tell me what the abbreviation [us](airline_code) stands for
+- what is fare code [f](fare_basis_code)
+- what does [us](airline_code) mean
+- what is [yyz](airport_code)
+- what is restriction [ap 57](restriction_code)
+- what is [ewr](airport_code)
+- explain restriction [ap 57](restriction_code)
+- what does the fare code [f](fare_basis_code) and fn mean
+- what does code [y](fare_basis_code) mean
+- what does fare code [m](fare_basis_code) mean
+- what is the abbreviation [d10](aircraft_code)
+- what is [ua](airline_code)
+- what does fare code [qx](fare_basis_code) mean
+- explain restriction [ap80](restriction_code)
+- what does [iah](airport_code) mean
+- describe fare code [qx](fare_basis_code)
+- what does code [qw](fare_basis_code) mean
+- please explain fare code [f](fare_basis_code)
+- define airline [ua](airline_code)
+- what does fare code [qx](fare_basis_code) mean
+- is fare code [b](fare_basis_code) the [same](mod) as [business class](class_type)
+- what is [ewr](airport_code)
+- what does fare code [qo](fare_basis_code) mean
+- what does the fare code [f](fare_basis_code) mean
+- what is [ua](airline_code)
+- what does restriction [ap 57](restriction_code) mean
+- what does [ewr](airport_code) mean
+- what does [ewr](airport_code) mean
+- i 'd like to see the fare code again [qx](fare_basis_code)
+- what is [ewr](airport_code)
+- what does restriction [ap 57](restriction_code) mean
+- what is fare code [h](fare_basis_code)
+- what is fare code [y](fare_basis_code) mean
+- explain fare code [qx](fare_basis_code)
+- explain [meal](meal) codes [sd d](meal_code)
+- explain the fare codes
+- what does [mco](airport_code) stand for
+- what is [ff](airline_code)
+- what does [ap57](restriction_code) mean
+- what is fare code [f](fare_basis_code)
+- what is the meaning of restriction [ap80](restriction_code)
+- what is [ewr](airport_code)
+- what does fare code [qo](fare_basis_code) mean
+- what does [ewr](airport_code) mean
+- what is fare code [h](fare_basis_code)
+- what does the fare code [qw](fare_basis_code) mean
+- what does fare code [qo](fare_basis_code) mean
+
+
+## intent:aircraft
+- what kind of aircraft is used on a flight from [cleveland](fromloc.city_name) to [dallas](toloc.city_name)
+- what kinds of planes are used by [american airlines](airline_name)
+- what types of aircraft does [delta](airline_name) fly
+- on the [8 am](depart_time.time) flight from [san francisco](fromloc.city_name) to [atlanta](toloc.city_name) what type of aircraft is used
+- list aircraft types that fly between [boston](fromloc.city_name) and [san francisco](toloc.city_name)
+- is there a plane from [boston](fromloc.city_name) to [washington](toloc.city_name)
+- what airplane types fly from [pittsburgh](fromloc.city_name) to [baltimore](toloc.city_name)
+- what 's the [smallest](mod) plane that flies from [pittsburgh](fromloc.city_name) to [baltimore](toloc.city_name) on [eight](depart_time.time) sixteen
+- repeating leaving [denver](fromloc.city_name) to [san francisco](toloc.city_name) [before](depart_time.time_relative) [10 am](depart_time.time) what type of aircraft is used
+- what type of aircraft flies from [pittsburgh](fromloc.city_name) to [baltimore](toloc.city_name)
+- what kind of airplane is flight [ua](airline_code) [281](flight_number) from [boston](fromloc.city_name) to [denver](toloc.city_name)
+- what type of plane is an [m80](aircraft_code)
+- show me the type of aircraft that [cp](airline_code) uses
+- what type of aircraft does [eastern](airline_name) fly from [atlanta](fromloc.city_name) to [denver](toloc.city_name) [before](depart_time.time_relative) [6 pm](depart_time.time)
+- what type of aircraft leaving [after](depart_time.time_relative) [2 pm](depart_time.time) from [boston](fromloc.city_name) to [oakland](toloc.city_name)
+- kindly give me the type of aircraft used to fly from [atlanta](fromloc.city_name) to [denver](toloc.city_name)
+- i 'd like to know what type of plane flies from [boston](fromloc.city_name) to [dallas fort worth](toloc.city_name) [after](depart_time.time_relative) [530](depart_time.time)
+- show me the aircraft that [canadian airlines](airline_name) uses
+- what kind of aircraft is used on the [first class](class_type) [american airlines](airline_name) flight from [philadelphia](fromloc.city_name) to [san francisco](toloc.city_name) stopping in [dallas](stoploc.city_name)
+- what kind of aircraft does [delta](airline_name) fly [before](depart_time.time_relative) [8 am](depart_time.time) on [august](depart_date.month_name) [second](depart_date.day_number) from [boston](fromloc.city_name) to [denver](toloc.city_name)
+- what kind of airplane goes from [philadelphia](fromloc.city_name) to [san francisco](toloc.city_name) [monday](depart_date.day_name) stopping in [dallas](stoploc.city_name) in the [afternoon](depart_time.period_of_day) [first class](class_type) flight
+- what type of aircraft is used on [american airline](airline_name) flight [315](flight_number)
+- i want to go and take a plane in [atlanta](fromloc.city_name) and fly to [boston](toloc.city_name)
+- show me the aircraft that [canadian airlines](airline_name) uses
+- what is the type of aircraft for [united](airline_name) flight [21](flight_number)
+- what aircraft is used on [delta](airline_name) flight [1222](flight_number) from [kansas city](fromloc.city_name) to [salt lake city](toloc.city_name)
+- what kind of plane flies from [boston](fromloc.city_name) to [pittsburgh](toloc.city_name) [after](depart_time.time_relative) [noon](depart_time.time)
+- display types of aircraft departing from [cleveland](fromloc.city_name) to [dallas](toloc.city_name) [before](depart_time.time_relative) [noon](depart_time.time)
+- what planes does [united](airline_name) use
+- what type of aircraft leaves from [boston](fromloc.city_name) to [washington](toloc.city_name) [dc](toloc.state_code) at [9 am](depart_time.time)
+- what planes are used by [twa](airline_code)
+- please inform me the type of aircraft used on a flight from [atlanta](fromloc.city_name) to [denver](toloc.city_name) [before](depart_time.time_relative) [12 o'clock noon](depart_time.time)
+- what kinds of planes are used by [midway airlines](airline_name)
+- i 'm going to leave [philadelphia](fromloc.city_name) and i want to go to [san francisco](toloc.city_name) and i want to fly [first class](class_type) [american](airline_name) and i want a stop in [dallas](stoploc.city_name) can you please tell me what type of aircraft you will be flying
+- what type of aircraft does [eastern](airline_name) fly from [atlanta](fromloc.city_name) to [denver](toloc.city_name) [before](depart_time.time_relative) [6 pm](depart_time.time)
+- well i 'll try last time tell me the kind of aircraft [united airlines](airline_name) flies from [denver](fromloc.city_name) to [san francisco](toloc.city_name) [before](depart_time.time_relative) [10 o'clock](depart_time.time) in the [morning](depart_time.period_of_day)
+- what kind of aircraft does [delta](airline_name) use [before](depart_time.time_relative) [8 am](depart_time.time) on [august](depart_date.month_name) [second](depart_date.day_number) from [boston](fromloc.city_name) to [denver](toloc.city_name)
+- i need a plane that arrives in [san francisco](toloc.city_name) [by](arrive_time.time_relative) [9 o'clock pm](arrive_time.time) on [friday](arrive_date.day_name) and leaves from [baltimore](fromloc.city_name)
+- okay i would like to know the type of aircraft used on a flight from [cleveland](fromloc.city_name) to [dallas](toloc.city_name) please
+- does [delta](airline_name) aircraft fly [dc10](aircraft_code)
+- what kind of aircraft is used on the [first class](class_type) [american airlines](airline_name) flight from [philadelphia](fromloc.city_name) to [san francisco](toloc.city_name) with a [dallas](fromloc.city_name) stopover
+- what type of aircraft leaves from [boston](fromloc.city_name) to [washington](toloc.city_name) [dc](toloc.state_code) at [9 am](depart_time.time) during a [weekday](flight_mod)
+- sure i 'd like to determine what aircraft are use on [july](depart_date.month_name) [seventh](depart_date.day_number) leaving from [boston](fromloc.city_name) and arriving in [atlanta](toloc.city_name) on [july](arrive_date.month_name) [seventh](arrive_date.day_number)
+- what type of aircraft leaves from [boston](fromloc.city_name) to [washington](toloc.city_name) [dc](toloc.state_code) [before](depart_time.time_relative) [9 am](depart_time.time)
+- what [first class](class_type) airplane goes from [philadelphia](fromloc.city_name) to [san francisco](toloc.city_name) and stops in [dallas](stoploc.city_name) in the [afternoon](depart_time.period_of_day) on [monday](depart_date.day_name)
+- what 's the next [smallest](mod) plane after a turboprop
+- show me the type of aircraft that [cp](airline_code) uses
+- i would like a to know the type of aircraft leaving from [atlanta](fromloc.city_name) bound to [boston](toloc.city_name) on [friday](depart_date.day_name) this week
+- leaving [denver](fromloc.city_name) flying to [san francisco](toloc.city_name) [before](depart_time.time_relative) [10 am](depart_time.time) what type of aircraft is used
+- what kind of airplane goes from [boston](fromloc.city_name) to [san francisco](toloc.city_name) [before](depart_time.time_relative) [noon](depart_time.time)
+- what type of aircraft is used on the flight from [atlanta](fromloc.city_name) to [philadelphia](toloc.city_name) [before](depart_time.time_relative) [12 o'clock noon](depart_time.time)
+- what type of aircraft leaving [philadelphia](fromloc.city_name) to [dallas](toloc.city_name)
+- list types of planes that fly between [pittsburgh](fromloc.city_name) and [baltimore](toloc.city_name)
+- i 'm traveling from [boston](fromloc.city_name) to [atlanta](toloc.city_name) and i 'd like to go sometime [after](depart_time.time_relative) [5 pm](depart_time.time) but i want to know what kind of airplane it 's on
+- what is the aircraft type with the [greatest](mod) seating capacity
+- i would like to know what type of aircraft will be used on the [morning](depart_time.period_of_day) of [july](depart_date.month_name) [seventh](depart_date.day_number) from [atlanta](fromloc.city_name) to [boston](toloc.city_name)
+- what type of airplane is an [m80](aircraft_code)
+- what is the [smallest](mod) aircraft available to fly on from [pittsburgh](fromloc.city_name) to [baltimore](toloc.city_name)
+- what kind of airplane is flight [ua](airline_code) [270](flight_number) from [denver](fromloc.city_name) to [philadelphia](toloc.city_name)
+- what type of aircraft is used flying from [atlanta](fromloc.city_name) to [denver](toloc.city_name) [before](depart_time.time_relative) [12 noon](depart_time.time)
+- what kind of airplanes are used by [delta airlines](airline_name) flying between [washington](fromloc.city_name) and [denver](toloc.city_name)
+- list types of aircraft that fly between [boston](fromloc.city_name) and [san francisco](toloc.city_name)
+- what is the [smallest](mod) aircraft available flying from [pittsburgh](fromloc.city_name) to [baltimore](toloc.city_name) arriving on [may](arrive_date.month_name) [seventh](arrive_date.day_number)
+- what kind of aircraft do you have flying from [boston](fromloc.city_name) to [san francisco](toloc.city_name) on [august](depart_date.month_name) [twenty seventh](depart_date.day_number)
+- please tell me the type of aircraft used from [atlanta](fromloc.city_name) to [denver](toloc.city_name) [before](depart_time.time_relative) [12 o'clock noon](depart_time.time)
+- what types of aircraft can i get a [first class](class_type) ticket from [philadelphia](fromloc.city_name) to [dallas](toloc.city_name)
+- all right would you let me know type of aircraft [united airlines](airline_name) is using on the flights from [denver](fromloc.city_name) to [san francisco](toloc.city_name) i would like to know the type of aircraft that they use on these flights [before](depart_time.time_relative) [10](depart_time.time) in the [morning](depart_time.period_of_day)
+- what is the [smallest](mod) aircraft that flies from [pittsburgh](fromloc.city_name) to [baltimore](toloc.city_name) arriving [may](arrive_date.month_name) [seventh](arrive_date.day_number)
+- what kind of plane is used on the [earliest](flight_mod) flight from [boston](fromloc.city_name) to [san francisco](toloc.city_name) [afternoon](depart_time.period_of_day)
+- list types of aircraft that connect [boston](fromloc.city_name) and [san francisco](toloc.city_name)
+- what type of aircraft is used on the [first](flight_mod) flight from [philadelphia](fromloc.city_name) to [dallas](toloc.city_name) in the [morning](depart_time.period_of_day)
+- what 's the [smallest](mod) plane flying from [pittsburgh](fromloc.city_name) to [baltimore](toloc.city_name) on [december](depart_date.month_name) [seventeenth](depart_date.day_number)
+- can you tell me what aircraft is used for [delta](airline_name) flight [1222](flight_number) from [kansas city](fromloc.city_name) to [salt lake city](toloc.city_name)
+- what kind of aircraft will i be flying on if i take a [first class](class_type) [american airlines](airline_name) flight from [philadelphia](fromloc.city_name) to [dallas](toloc.city_name)
+- what aircraft is [co](airline_code) [1209](flight_number)
+- show me the type of aircraft that [canadian airlines](airline_name) uses
+- show me all the types of aircraft
+- i need to find a plane from [boston](fromloc.city_name) to [san francisco](toloc.city_name) on [friday](depart_date.day_name)
+- what aircraft has the [largest](mod) seating capacity
+- can you please tell me the type of aircraft used flying from [atlanta](fromloc.city_name) to [denver](toloc.city_name) on [eastern](airline_name) flight [825](flight_number) leaving at [555](depart_time.time)
+- what type of aircraft are used on flights from [cleveland](fromloc.city_name) to [dallas](toloc.city_name) that leave [before](depart_time.time_relative) [noon](depart_time.time)
+
+
+## intent:aircraft and flight and flight_no
+- i want to fly from [detroit](fromloc.city_name) to [st. petersburg](toloc.city_name) on [northwest airlines](airline_name) and leave [around](depart_time.time_relative) [9 am](depart_time.time) tell me what aircraft are used by this flight and tell me the flight number
+
+
+## intent:airfare
+- [cheapest](cost_relative)airfare from [tacoma](fromloc.city_name) to [orlando](toloc.city_name)
+- [round trip](round_trip)fares from [pittsburgh](fromloc.city_name) to [philadelphia](toloc.city_name) [under](cost_relative) [1000 dollars](fare_amount)
+- show me the [first class](class_type) fares from [boston](fromloc.city_name) to [denver](toloc.city_name)
+- i 'd like to have some information on a ticket from [denver](fromloc.city_name) to [pittsburgh](toloc.city_name) and [atlanta](toloc.city_name)
+- show me the [cheapest](cost_relative) [round trip](round_trip) fare from [baltimore](fromloc.city_name) to [dallas](toloc.city_name)
+- fares and flights from [pittsburgh](fromloc.city_name) to [philadelphia](toloc.city_name)
+- what is the cost of a [round trip](round_trip) flight from [pittsburgh](fromloc.city_name) to [atlanta](toloc.city_name) beginning on [april](depart_date.month_name) [twenty fifth](depart_date.day_number) and returning on [may](return_date.month_name) [sixth](return_date.day_number)
+- show me the fares from [dallas](fromloc.city_name) to [san francisco](toloc.city_name)
+- show me all the [night](depart_time.period_of_day) fares between [philadelphia](fromloc.city_name) and [san francisco](toloc.city_name)
+- can you show me [economy class](economy) [one way](round_trip) fares for flights from [oakland](fromloc.city_name) to [dallas](toloc.city_name) on [december](depart_date.month_name) [sixteenth](depart_date.day_number)
+- what are the [coach](class_type) fares from [charlotte](fromloc.city_name) to [la](toloc.city_name) [wednesday](depart_date.day_name) [night](depart_time.period_of_day)
+- what is the [first class](class_type) fare on [united](airline_name) flight [352](flight_number) from [denver](fromloc.city_name) to [boston](toloc.city_name)
+- [round trip](round_trip)fares [new york](fromloc.city_name) to [san jose](toloc.city_name)
+- what is the cost of a [first class](class_type) ticket from [baltimore](fromloc.city_name) to [dallas](toloc.city_name)
+- what is the [economy](economy) [thrift](class_type) fare from [boston](fromloc.city_name) to [washington](toloc.city_name)
+- how much does it cost to go from downtown to [logan airport](toloc.airport_name)
+- what is the fare from [san francisco](fromloc.city_name) to [dallas fort worth](toloc.city_name) on [delta](airline_name) flight [852](flight_number)
+- list the fares of [us air](airline_name) flights from [boston](fromloc.city_name) to [philadelphia](toloc.city_name)
+- show me fares from [seattle](fromloc.city_name) to [minneapolis](toloc.city_name)
+- how much is a [round trip](round_trip) fare from [indianapolis](fromloc.city_name) to [seattle](toloc.city_name)
+- show me the fares from [dallas](fromloc.city_name) to [san francisco](toloc.city_name)
+- i need 2 [first class](class_type) tickets from [dallas fort worth](fromloc.city_name) to [san francisco](toloc.city_name)
+- show me the fares on all flights [round trip](round_trip) from [pittsburgh](fromloc.city_name) to [oakland](toloc.city_name)
+- what [round trip](round_trip) tickets are there from [cleveland](fromloc.city_name) to [miami](toloc.city_name) on [us air](airline_name) that arrive [before](arrive_time.time_relative) [4 pm](arrive_time.time)
+- how much is a flight from [washington](fromloc.city_name) to [boston](toloc.city_name)
+- what is the fare going from [atlanta](fromloc.city_name) to [boston](toloc.city_name) [one way](round_trip) on [november](depart_date.month_name) [seventh](depart_date.day_number)
+- show me fares from [baltimore](fromloc.city_name) to [philadelphia](toloc.city_name)
+- what are the [round trip](round_trip) fares for flights from [denver](fromloc.city_name) to [philadelphia](toloc.city_name) arriving [after](arrive_time.time_relative) [1700](arrive_time.time) on [continental](airline_name)
+- i would like the [least expensive](cost_relative) airfare flight on [sunday](depart_date.day_name) to [pittsburgh](toloc.city_name) from [san francisco](fromloc.city_name)
+- [first class](class_type) [round trip](round_trip) airfare from [indianapolis](fromloc.city_name) to [memphis](toloc.city_name)
+- what are the fares from [newark](fromloc.city_name) to [la](toloc.city_name) [monday](depart_date.day_name) and [wednesday](depart_date.day_name)
+- please show me [round trip](round_trip) tickets from [denver](fromloc.city_name) to [oakland](toloc.city_name)
+- what are the [lowest](cost_relative) [one way](round_trip) fares from [atlanta](fromloc.city_name) to [denver](toloc.city_name)
+- how much is a [round trip](round_trip) fare from [memphis](fromloc.city_name) to [seattle](toloc.city_name)
+- how much does [dl](airline_code) [746](flight_number) cost
+- what 's the [lowest](cost_relative) [round trip](round_trip) fare from [dallas](fromloc.city_name) to [atlanta](toloc.city_name)
+- [economy](economy)fares [new york](fromloc.city_name) to [miami](toloc.city_name) [round trip](round_trip)
+- what is the [cheapest](cost_relative) fare i can get from [dallas](fromloc.city_name) to [denver](toloc.city_name)
+- could you please find me the [cheapest](cost_relative) [one way](round_trip) fare from [boston](fromloc.city_name) to [philadelphia](toloc.city_name)
+- what 's the [cheapest](cost_relative) [one way](round_trip) ticket from [baltimore](fromloc.city_name) to [atlanta](toloc.city_name)
+- i want a [one way](round_trip) ticket from [dallas](fromloc.city_name) to [baltimore](toloc.city_name)
+- what 's the [lowest](cost_relative) [one way](round_trip) fare from [pittsburgh](fromloc.city_name) to [denver](toloc.city_name)
+- how much does the [american airlines](airline_name) flight [71](flight_number) from [dallas](fromloc.city_name) to [san francisco](toloc.city_name) cost
+- could you tell me the [cheapest](cost_relative) fare from [atlanta](fromloc.city_name) to [boston](toloc.city_name) on [thirty first](depart_date.day_number) of [august](depart_date.month_name)
+- what is the cost of flight [dl](airline_code) [106](flight_number) from [philadelphia](fromloc.city_name) to [boston](toloc.city_name)
+- what is the [cheapest](cost_relative) [round trip](round_trip) fare between [boston](fromloc.city_name) and [san francisco](toloc.city_name)
+- what is the fare from [boston](fromloc.city_name) to [oakland](toloc.city_name) on [united airlines](airline_name)
+- show me [round trip](round_trip) fares from [denver](fromloc.city_name) to [philadelphia](toloc.city_name)
+- show me [round trip](round_trip) fares from [san jose](fromloc.city_name) to [salt lake city](toloc.city_name)
+- show me [us air](airline_name) fares for [next](depart_date.date_relative) [sunday](depart_date.day_name) from [miami](fromloc.city_name) to [cleveland](toloc.city_name)
+- list a [round trip](round_trip) fare from [kansas city](fromloc.city_name) to [minneapolis](toloc.city_name) flights
+- what is the [coach](class_type) fare between [boston](fromloc.city_name) and [atlanta](toloc.city_name) on [delta](airline_name)
+- i would like your rates between [atlanta](fromloc.city_name) and [boston](toloc.city_name) on [september](depart_date.month_name) [third](depart_date.day_number)
+- please show me airfare of flight [us](airline_code) [345](flight_number) from [boston](fromloc.city_name) to [pittsburgh](toloc.city_name)
+- find the [cheapest](cost_relative) [one way](round_trip) fare from [boston](fromloc.city_name) to [san francisco](toloc.city_name)
+- please give me [round trip](round_trip) fares from [pittsburgh](fromloc.city_name) to [philadelphia](toloc.city_name)
+- what is the price of [american airlines](airline_name) flight [19](flight_number) from [new york](fromloc.city_name) to [los angeles](toloc.city_name)
+- show me the [coach](class_type) fares from [baltimore](fromloc.city_name) to [dallas](toloc.city_name)
+- could you please give me a [one way](round_trip) fare from [pittsburgh](fromloc.city_name) to [atlanta](toloc.city_name)
+- give me fares from [atlanta](fromloc.city_name) to [baltimore](toloc.city_name)
+- what is the [lowest price](cost_relative) fare from [atlanta](fromloc.city_name) to [san francisco](toloc.city_name) on flight [delta](airline_name) [82](flight_number) and [delta](airline_name) [139](flight_number)
+- what is the airfare between [denver](fromloc.city_name) and [pittsburgh](toloc.city_name)
+- show me the [cheapest](cost_relative) [one way](round_trip) tickets from [atlanta](fromloc.city_name) to [dallas](toloc.city_name)
+- what are the prices of the flights from [dallas](fromloc.city_name) to [baltimore](toloc.city_name)
+- would you tell me the [cheapest](cost_relative) [one way](round_trip) fare from [boston](fromloc.city_name) to [oakland](toloc.city_name)
+- show me fares from [philadelphia](fromloc.city_name) to [san francisco](toloc.city_name) on [thursday](depart_date.day_name) [morning](depart_time.period_of_day)
+- could you find me the [cheapest](cost_relative) fare from [boston](fromloc.city_name) to [san francisco](toloc.city_name)
+- what are the [first class](class_type) and [coach](class_type) fares for flights from [chicago](fromloc.city_name) to [kansas city](toloc.city_name) arriving [around](arrive_time.time_relative) [7 pm](arrive_time.time) [next](arrive_date.date_relative) [thursday](arrive_date.day_name)
+- find me the [cheapest](cost_relative) [one way](round_trip) fare i can get from [boston](fromloc.city_name) to [denver](toloc.city_name)
+- what does it cost to fly from [boston](fromloc.city_name) to [oakland](toloc.city_name) on [united airlines](airline_name)
+- can you show me the [economy](economy) fare flights from [baltimore](fromloc.city_name) to [dallas](toloc.city_name)
+- i would like to see the [economy](economy) fares for [pittsburgh](fromloc.city_name) to [philadelphia](toloc.city_name)
+- what is the cost of [united airlines](airline_name) flight [415](flight_number) from [chicago](fromloc.city_name) to [kansas city](toloc.city_name) [thursday](depart_date.day_name) [night](depart_time.period_of_day)
+- show me prices and [times](flight_time) for [first class](class_type) travel from [baltimore](fromloc.city_name) to [dallas](toloc.city_name) next summer
+- what are the cost of [morning](depart_time.period_of_day) flights from [atlanta](fromloc.city_name) to [baltimore](toloc.city_name)
+- what are the [coach](class_type) fares for flights from [charlotte](fromloc.city_name) to [newark](toloc.city_name) [tuesday](depart_date.day_name) [evening](depart_time.period_of_day)
+- i would like the [cheapest](cost_relative) [one way](round_trip) fare from [dallas](fromloc.city_name) to [denver](toloc.city_name)
+- show me fares from [dallas](fromloc.city_name) to [baltimore](toloc.city_name) that cost [less](cost_relative) than [300 dollars](fare_amount)
+- how much does flight [ua](airline_code) [281](flight_number) from [boston](fromloc.city_name) to [denver](toloc.city_name) cost
+- can you show me the price of a flight to [washington](toloc.city_name) from [atlanta](fromloc.city_name) on [thursday](depart_date.day_name) [morning](depart_time.period_of_day)
+- what is the [least expensive](cost_relative) [one way](round_trip) fare between [philadelphia](fromloc.city_name) and [boston](toloc.city_name)
+- what is the fare from [atlanta](fromloc.city_name) to [boston](toloc.city_name) on [coach](class_type) [one way](round_trip)
+- how much does flight [dl](airline_code) [402](flight_number) from [denver](fromloc.city_name) to [philadelphia](toloc.city_name) cost
+- what is the [cheapest](cost_relative) fare from [washington](fromloc.city_name) to [san francisco](toloc.city_name)
+- how much is the [cheapest](cost_relative) flight from [denver](fromloc.city_name) to [pittsburgh](toloc.city_name) with a stop in [atlanta](stoploc.city_name)
+- can you show me what fares are available from [oakland](fromloc.city_name) to [dallas](toloc.city_name) on [december](depart_date.month_name) [sixteenth](depart_date.day_number) [one way](round_trip) only
+- show me the [round trip](round_trip) tickets from [baltimore](fromloc.city_name) to [atlanta](toloc.city_name)
+- [round trip](round_trip)fares from [denver](fromloc.city_name) to [philadelphia](toloc.city_name) [under](cost_relative) [1000 dollars](fare_amount) and [pittsburgh](fromloc.city_name) to [philadelphia](toloc.city_name) [under](cost_relative) [1000 dollars](fare_amount)
+- how much does it cost to fly from [atlanta](fromloc.city_name) to [san francisco](toloc.city_name)
+- show me fares [less](cost_relative) than [400 dollars](fare_amount) for flights from [dallas](fromloc.city_name) to [baltimore](toloc.city_name)
+- show me fares for flights from [minneapolis](fromloc.city_name) to [seattle](toloc.city_name) on [july](depart_date.month_name) [first](depart_date.day_number) [1993](depart_date.year)
+- show me all fares from [new york](fromloc.city_name) to [miami](toloc.city_name) leaving on a [tuesday](depart_date.day_name)
+- can you show me fares for [december](depart_date.month_name) [sixteenth](depart_date.day_number) from [oakland](fromloc.city_name) to [dallas](toloc.city_name) [one way](round_trip) only
+- show me fares from [miami](fromloc.city_name) to [new york](toloc.city_name)
+- show me the [cheapest](cost_relative) [one way](round_trip) fares from [san diego](fromloc.city_name) to [miami](toloc.city_name)
+- show me [round trip](round_trip) [first class](class_type) tickets from [new york](fromloc.city_name) to [miami](toloc.city_name)
+- show me the fares for a [first class](class_type) ticket from [baltimore](fromloc.city_name) to [dallas](toloc.city_name)
+- show me the prices of [first class](class_type) tickets on [us air](airline_name) [round trip](round_trip) from [cleveland](fromloc.city_name) to [miami](toloc.city_name)
+- what is the [cheapest](cost_relative) fare from [boston](fromloc.city_name) to [san francisco](toloc.city_name)
+- show me the [most expensive](cost_relative) fare
+- show me the [most expensive](cost_relative) fare
+- what is the [cheapest](cost_relative) [one way](round_trip) fare from [san francisco](fromloc.city_name) to [boston](toloc.city_name) on [wednesday](depart_date.day_name) [august](depart_date.month_name) [twenty first](depart_date.day_number)
+- i 'd like to find the [cheapest](cost_relative) fare from [atlanta](fromloc.city_name) to [dallas](toloc.city_name)
+- show me fares from [miami](fromloc.city_name) to [new york](toloc.city_name)
+- what 's the [lowest](cost_relative) [round trip](round_trip) fare from [dallas](fromloc.city_name) to [baltimore](toloc.city_name)
+- what 's the [lowest](cost_relative) [round trip](round_trip) fare from [denver](fromloc.city_name) to [atlanta](toloc.city_name)
+- what is the [cheapest](cost_relative) [one way](round_trip) fare from [denver](fromloc.city_name) to [pittsburgh](toloc.city_name)
+- what 's the [lowest](cost_relative) [round trip](round_trip) fare from [denver](fromloc.city_name) to [pittsburgh](toloc.city_name)
+- could you please give me the cost of a [round trip](round_trip) flight from [denver](fromloc.city_name) to [pittsburgh](toloc.city_name)
+- show me the [cheapest](cost_relative) [one way](round_trip) fare from [baltimore](fromloc.city_name) to [dallas](toloc.city_name)
+- fares and flights from [denver](fromloc.city_name) to [philadelphia](toloc.city_name)
+- okay could you get me a [round trip](round_trip) ticket from [indianapolis](fromloc.city_name) to [kansas city](toloc.city_name)
+- list all [round trip](round_trip) fares from [st. petersburg](fromloc.city_name) to [washington](toloc.city_name)
+- how much is a [first class](class_type) ticket from [washington](fromloc.city_name) to [san francisco](toloc.city_name) leaving on [friday](depart_date.day_name)
+- [round trip](round_trip)fare from [baltimore](fromloc.city_name) to [philadelphia](toloc.city_name) [less](cost_relative) than [1000 dollars](fare_amount)
+- what is the cost of flights from [denver](fromloc.city_name) to [san francisco](toloc.city_name)
+- i 'd like to buy a [coach class](class_type) ticket from [denver](fromloc.city_name) to [atlanta](toloc.city_name) with a stopover in [pittsburgh](stoploc.city_name)
+- let 's see how much would a [direct](connect) flight from [atlanta](fromloc.city_name) to [denver](toloc.city_name) be on [may](depart_date.month_name) [seventh](depart_date.day_number)
+- show me [round trip](round_trip) tickets from [new york](fromloc.city_name) to [miami](toloc.city_name)
+- give me the [round trip](round_trip) [coach](class_type) fare from [baltimore](fromloc.city_name) to [dallas](toloc.city_name)
+- [round trip](round_trip)fares from [baltimore](fromloc.city_name) to [philadelphia](toloc.city_name) [less](cost_relative) than [1000 dollars](fare_amount) [or](or) [round trip](round_trip) fares from [denver](fromloc.city_name) to [philadelphia](toloc.city_name) [less](cost_relative) than [1000 dollars](fare_amount) [or](or) [round trip](round_trip) fares from [pittsburgh](fromloc.city_name) to [philadelphia](toloc.city_name) [less](cost_relative) than [1000 dollars](fare_amount)
+- what are the prices of the flights from [atlanta](fromloc.city_name) to [dallas](toloc.city_name) in the [morning](depart_time.period_of_day)
+- what does it cost to fly from [boston](fromloc.city_name) to [san francisco](toloc.city_name) on [united airlines](airline_name) flight [21](flight_number)
+- how much is a [first class](class_type) [round trip](round_trip) from [atlanta](fromloc.city_name) to [san francisco](toloc.city_name)
+- please give me fares from [denver](fromloc.city_name) to [philadelphia](toloc.city_name)
+- what is the fare on [november](depart_date.month_name) [seventh](depart_date.day_number) going [one way](round_trip) from [dallas](fromloc.city_name) to [san francisco](toloc.city_name)
+- list all [round trip](round_trip) fares from [pittsburgh](fromloc.city_name) to [washington](toloc.city_name) [dc](toloc.state_code)
+- what is the [lowest](cost_relative) fare from [denver](fromloc.city_name) to [pittsburgh](toloc.city_name)
+- i 'd like the [cheapest](cost_relative) [one way](round_trip) fare from [boston](fromloc.city_name) to [san francisco](toloc.city_name)
+- how much does it cost to fly from [boston](fromloc.city_name) to [baltimore](toloc.city_name) on a [saturday](depart_date.day_name)
+- what is the price of a [one way](round_trip) fare from [boston](fromloc.city_name) to [denver](toloc.city_name) on [continental airlines](airline_name)
+- show fares and flights from [denver](fromloc.city_name) to [oakland](toloc.city_name)
+- display all fare codes
+- what is the [cheapest](cost_relative) [one way](round_trip) fare from [boston](fromloc.city_name) to [washington](toloc.city_name)
+- how much is a [first class](class_type) ticket from [boston](fromloc.city_name) to [san francisco](toloc.city_name)
+- what are the fares from [dallas](fromloc.city_name) to [san francisco](toloc.city_name) on flight [dl](airline_code) [217](flight_number)
+- what is the fare on the [thrift](class_type) [economy](economy) flight from [boston](fromloc.city_name) to [san francisco](toloc.city_name)
+- [round trip](round_trip)fares from [denver](fromloc.city_name) to [philadelphia](toloc.city_name) [less](cost_relative) than [1000 dollars](fare_amount)
+- what is the [cheapest](cost_relative) [round trip](round_trip) fare from [atlanta](fromloc.city_name) to [pittsburgh](toloc.city_name)
+- show [business class](class_type) fares on [us air](airline_name) from [boston](fromloc.city_name) to [toronto](toloc.city_name)
+- show me [round trip](round_trip) fares from [new york](fromloc.city_name) to [miami](toloc.city_name)
+- what is the [first class](class_type) fare from [boston](fromloc.city_name) to [dallas](toloc.city_name)
+- show me prices of flights from [baltimore](fromloc.city_name) to [dallas](toloc.city_name)
+- show me all prices of [first class](class_type) from [baltimore](fromloc.city_name) to [dallas](toloc.city_name)
+- show me [round trip](round_trip) fares from [baltimore](fromloc.city_name) to [philadelphia](toloc.city_name)
+- show me all the prices of flights from [baltimore](fromloc.city_name) to [dallas](toloc.city_name)
+- [round trip](round_trip)fares from [denver](fromloc.city_name) to [philadelphia](toloc.city_name) [less](cost_relative) than [1000 dollars](fare_amount)
+- what are the [coach](class_type) fares from [la](fromloc.city_name) to [charlotte](toloc.city_name) [monday](depart_date.day_name) [morning](depart_time.period_of_day)
+- what is the price of a [first class](class_type) ticket from [atlanta](fromloc.city_name) to [san francisco](toloc.city_name)
+- [cheapest](cost_relative) [round trip](round_trip) airfare from [tacoma](fromloc.city_name) to [orlando](toloc.city_name)
+- how much is a [us air](airline_name) [boston](fromloc.city_name) to [pittsburgh](toloc.city_name) [daily](flight_days) [nonstop](flight_stop) flight
+- what is the cost for these flights from [baltimore](fromloc.city_name) to [philadelphia](toloc.city_name)
+- i need one [first class](class_type) ticket from [dallas fort worth](fromloc.city_name) to [san francisco](toloc.city_name)
+- show me the price of all flights from [atlanta](fromloc.city_name) to [washington](toloc.city_name) [dc](toloc.state_code)
+- what is the [round trip](round_trip) cost of a [first class](class_type) ticket from [boston](fromloc.city_name) to [san francisco](toloc.city_name)
+- what 's the [lowest](cost_relative) [round trip](round_trip) fare from [dallas](fromloc.city_name) to any city
+- what is the [cheapest](cost_relative) [one way](round_trip) fare from any city to another
+- i 'd like to find the [cheapest](cost_relative) [one way](round_trip) fare from [baltimore](fromloc.city_name) to [denver](toloc.city_name)
+- what are the fares for flights from [charlotte](fromloc.city_name) to [newark](toloc.city_name) on [tuesday](depart_date.day_name) and [wednesday](depart_date.day_name)
+- show me the fare for [us](airline_code) flight [3357](flight_number) from [philadelphia](fromloc.city_name) to [baltimore](toloc.city_name)
+- [first class](class_type)price [san francisco](fromloc.city_name) [pittsburgh](fromloc.city_name) [round trip](round_trip)
+- show me the [first class](class_type) fares from [baltimore](fromloc.city_name) to [dallas](toloc.city_name)
+- [lowest](cost_relative)fare from [san francisco](fromloc.city_name) to [los angeles](toloc.city_name)
+- fares and flights from [baltimore](fromloc.city_name) to [philadelphia](toloc.city_name)
+- list the fares of the [delta airlines](airline_name) flights from [boston](fromloc.city_name) to [philadelphia](toloc.city_name)
+- i want a [round trip](round_trip) fare from [new york](fromloc.city_name) to [san jose](toloc.city_name)
+- what is the [cheapest](cost_relative) ticket from [baltimore](fromloc.city_name) to [san francisco](toloc.city_name) on [friday](depart_date.day_name) [august](depart_date.month_name) [thirtieth](depart_date.day_number)
+- show me the [cheapest](cost_relative) fares from [san diego](fromloc.city_name) to [miami](toloc.city_name) [one way](round_trip)
+- what are the different classes of service and the prices for [us air](airline_name)
+- [lowest](cost_relative)fare from [san francisco](fromloc.city_name) to [orlando](toloc.city_name)
+- what is the [round trip](round_trip) fare on [continental](airline_name) [1291](flight_number) from [denver](fromloc.city_name) to [san francisco](toloc.city_name) and [return](round_trip)
+- what is the fare on [november](depart_date.month_name) [seventh](depart_date.day_number) going [one way](round_trip) from [san francisco](fromloc.city_name) to [oakland](toloc.city_name)
+- show me all [first class](class_type) fares from [new york](fromloc.city_name) to [miami](toloc.city_name) leaving on a [tuesday](depart_date.day_name)
+- show me all [first class](class_type) prices from [dallas](fromloc.city_name) to [baltimore](toloc.city_name)
+- i 'm interested in the [cheapest](cost_relative) fare from [washington](fromloc.city_name) to [fort worth](toloc.city_name)
+- i 'd like to have some information on a ticket from [denver](fromloc.city_name) to [atlanta](toloc.city_name) with a stop in [pittsburgh](stoploc.city_name)
+- show me the [first class](class_type) fares from [baltimore](fromloc.city_name) to [dallas](toloc.city_name)
+- i 'd like to buy a [coach class](class_type) ticket for a flight from [denver](fromloc.city_name) to [atlanta](toloc.city_name)
+- how much is an [economy](economy) ticket from [washington](fromloc.city_name) to [san francisco](toloc.city_name) on [september](depart_date.month_name) [thirtieth](depart_date.day_number)
+- what is the fare going from [boston](fromloc.city_name) to [dallas fort worth](toloc.city_name) [one way](round_trip) on [november](depart_date.month_name) [seventh](depart_date.day_number)
+- what 's the [lowest](cost_relative) [round trip](round_trip) fare from [bwi](fromloc.airport_code) to any city
+- show me the [round trip](round_trip) tickets from [baltimore](fromloc.city_name) to [atlanta](toloc.city_name)
+- please give me the prices for all flights from [philadelphia](fromloc.city_name) to [denver airport](toloc.airport_name) [next](depart_date.date_relative) [sunday](depart_date.day_name)
+- what are the fares for flights between [atlanta](fromloc.city_name) and [dfw](toloc.airport_code)
+- what are the prices of these flights
+- what are the fares for flights between [atlanta](fromloc.city_name) and [dfw](toloc.airport_code) provided by [american airlines](airline_name)
+- how much is the [cheapest](cost_relative) flight from [denver](fromloc.city_name) to [pittsburgh](toloc.city_name)
+- what is the cost of a flight from [boston](fromloc.city_name) to [denver](toloc.city_name)
+- fares from [dallas](fromloc.city_name) to [baltimore](toloc.city_name)
+- [round trip](round_trip)fares from [baltimore](fromloc.city_name) to [philadelphia](toloc.city_name) [less](cost_relative) than [1000 dollars](fare_amount) [round trip](round_trip) fares from [denver](fromloc.city_name) to [philadelphia](toloc.city_name) [less](cost_relative) than [1000 dollars](fare_amount) [round trip](round_trip) fares from [pittsburgh](fromloc.city_name) to [philadelphia](toloc.city_name) [less](cost_relative) than [1000 dollars](fare_amount)
+- show me the price of flight [ea](airline_code) [212](flight_number) from [atlanta](fromloc.city_name) to [washington](toloc.city_name)
+- what is the cost of a flight from [boston](fromloc.city_name) to [san francisco](toloc.city_name)
+- what is the fare from [boston](fromloc.city_name) to [san francisco](toloc.city_name) on [united airlines](airline_name) flight [21](flight_number)
+- find the [cheapest](cost_relative) [one way](round_trip) fare from [boston](fromloc.city_name) to [san francisco](toloc.city_name)
+- [us](airline_code) [771](flight_number) [pittsburgh](fromloc.city_name) to [philadelphia](toloc.city_name) what is the fare
+- what 's the [lowest](cost_relative) [round trip](round_trip) fare from [atlanta](fromloc.city_name) to [bwi](toloc.airport_code)
+- i am looking for the [cheapest](cost_relative) fare from [indianapolis](fromloc.city_name) to [orlando](toloc.city_name) on [december](depart_date.month_name) [twenty seventh](depart_date.day_number)
+- fares between [atlanta](fromloc.city_name) and [boston](toloc.city_name)
+- show me any show me what the [first class](class_type) fares are of the flights from [pittsburgh](fromloc.city_name) to [san francisco](toloc.city_name) on [monday](depart_date.day_name)
+- what is the [lowest](cost_relative) fare from [denver](fromloc.city_name) to [pittsburgh](toloc.city_name)
+- what is the [least expensive](cost_relative) [one way](round_trip) fare from [boston](fromloc.city_name) to [san francisco](toloc.city_name)
+- show me the [cheapest](cost_relative) fare from [dallas](fromloc.city_name) to [baltimore](toloc.city_name)
+- i 'd like the [lowest](cost_relative) fare from [denver](fromloc.city_name) to [pittsburgh](toloc.city_name)
+- what [united airlines](airline_name) [first class](class_type) airfare flights are available from [denver](fromloc.city_name) to [baltimore](toloc.city_name) on [july](depart_date.month_name) [three](depart_date.day_number)
+- what is the [most expensive](cost_relative) [one way](round_trip) fare from [boston](fromloc.city_name) to [atlanta](toloc.city_name) on [american airlines](airline_name)
+- price of flight from [nashville](fromloc.city_name) to [cleveland](toloc.city_name)
+- what is [lowest cost](cost_relative) air fare available for a flight from [dallas](fromloc.city_name) to [baltimore](toloc.city_name) arriving on [july](arrive_date.month_name) [fourth](arrive_date.day_number)
+- in [economy class](economy) from [dallas](fromloc.city_name) to [baltimore](toloc.city_name) arriving [july](arrive_date.month_name) [seventh](arrive_date.day_number) i 'd like to know what 's the [cheapest](cost_relative) ticket possible
+- please give me the [cheapest](cost_relative) [round trip](round_trip) airfare from [atlanta](fromloc.city_name) to [philadelphia](toloc.city_name) on [august](depart_date.month_name) the [first](depart_date.day_number)
+- what is the [cheapest](cost_relative) [round trip](round_trip) fare on [continental](airline_name) [1291](flight_number) [round trip](round_trip) [denver](fromloc.city_name) [san francisco](fromloc.city_name)
+- how much does it cost to fly from [boston](fromloc.city_name) to [atlanta](toloc.city_name)
+- what is the [lowest cost](cost_relative) fare that [delta](airline_name) has between [boston](fromloc.city_name) and [san francisco](toloc.city_name)
+- what is the cost of a [first class](class_type) ticket from [dallas fort worth](fromloc.city_name) to [san francisco](toloc.city_name)
+- i 'd like the [cheapest](cost_relative) cost fare to [fort worth](toloc.city_name) from [boston](fromloc.city_name)
+- what is the [cheapest](cost_relative) [one way](round_trip) fare from [boston](fromloc.city_name) to [baltimore](toloc.city_name)
+- i need a ticket from [los angeles](fromloc.city_name) to [charlotte](toloc.city_name) that leaves [early](depart_time.period_mod) in the [morning](depart_time.period_of_day)
+- [round trip](round_trip) [first class](class_type) fares [new york](fromloc.city_name) to [miami](toloc.city_name)
+- [july](depart_date.month_name) [seventh](depart_date.day_number) what is the cost of a [round trip](round_trip) ticket traveling [first class](class_type) on [united airlines](airline_name) leaving from [denver](fromloc.city_name) going to [baltimore](toloc.city_name)
+- please show me all fares for flights from [denver](fromloc.city_name) to [oakland](toloc.city_name)
+- show me the [lowest](cost_relative) fare for a [round trip](round_trip) flight from [baltimore](fromloc.city_name) to [dallas](toloc.city_name)
+- show me fares from [houston](fromloc.city_name) to [las vegas](toloc.city_name)
+- what is the fare going from [baltimore](fromloc.city_name) to [atlanta](toloc.city_name) [one way](round_trip) on [november](depart_date.month_name) [seventh](depart_date.day_number)
+- show me the [round trip](round_trip) tickets from [baltimore](fromloc.city_name) to [dallas](toloc.city_name)
+- what is the price of a [one way](round_trip) fare from [atlanta](fromloc.city_name) to [boston](toloc.city_name)
+- what is the price of flights from [indianapolis](fromloc.city_name) to [memphis](toloc.city_name)
+- can you show me [one way](round_trip) [economy](economy) fares from [dallas](fromloc.city_name) to [atlanta](toloc.city_name)
+- [cheapest](cost_relative)fare from [nashville](fromloc.city_name) to [seattle](toloc.city_name)
+- what is the [cheapest](cost_relative) fare from [washington](fromloc.city_name) to [san francisco](toloc.city_name) leaving on [september](depart_date.month_name) [thirtieth](depart_date.day_number)
+- what is the [round trip](round_trip) [first class](class_type) fare on [united](airline_name) from [boston](fromloc.city_name) to [san francisco](toloc.city_name)
+- please give me [round trip](round_trip) fares from [baltimore](fromloc.city_name) to [philadelphia](toloc.city_name)
+- find the [cheapest](cost_relative) [one way](round_trip) fare from [boston](fromloc.city_name) to [oakland](toloc.city_name)
+- [us](airline_code) [3724](flight_number) [baltimore](fromloc.city_name) to [philadelphia](toloc.city_name) what is the [round trip](round_trip) fare
+- show me the [lowest](cost_relative) priced fare from [dallas](fromloc.city_name) to [baltimore](toloc.city_name)
+- show me the fare for [delta](airline_name) flight [296](flight_number) from [atlanta](fromloc.city_name) to [philadelphia](toloc.city_name)
+- can you tell me the [cheapest](cost_relative) [one way](round_trip) fare from [boston](fromloc.city_name) to [san francisco](toloc.city_name)
+- what 's the [cheapest](cost_relative) fare for a [round trip](round_trip) from [indianapolis](fromloc.city_name) to [orlando](toloc.city_name) on [december](depart_date.month_name) [twenty seventh](depart_date.day_number)
+- what are the [lowest](cost_relative) [one way](round_trip) fares from [pittsburgh](fromloc.city_name) to [atlanta](toloc.city_name)
+- what are the [coach class](class_type) fares on flights from [pittsburgh](fromloc.city_name) to [atlanta](toloc.city_name)
+- what are the [first class](class_type) fares from [dallas](fromloc.city_name) to [baltimore](toloc.city_name)
+- what is the fare for a [one way](round_trip) flight from [boston](fromloc.city_name) to [atlanta](toloc.city_name)
+- show me the fares from [washington](fromloc.city_name) to [oakland](toloc.city_name)
+- what 's the [cheapest](cost_relative) [first class](class_type) airfare from [pittsburgh](fromloc.city_name) to [san francisco](toloc.city_name)
+- how much does it cost to fly [one way](round_trip) from [boston](fromloc.city_name) to [washington](toloc.city_name) [first class](class_type)
+- show me fares leaving on [tuesdays](depart_date.day_name) from [denver](fromloc.city_name) to go to [dallas](toloc.city_name)
+- what is the cost of a [round trip](round_trip) ticket [first class](class_type) between [oak](fromloc.airport_code) and [atl](toloc.airport_code)
+- show me [round trip](round_trip) fares from [las vegas](fromloc.city_name) to [houston](toloc.city_name) [nonstop](flight_stop)
+- show [business class](class_type) fares from [san francisco](fromloc.city_name) to [denver](toloc.city_name) on [united airlines](airline_name)
+- what 's the price of the [least expensive](cost_relative) [first class](class_type) [round trip](round_trip) ticket on [us air](airline_name) from [cleveland](fromloc.city_name) to [miami](toloc.city_name)
+- what is the [first class](class_type) fare from [indianapolis](fromloc.city_name) to [orlando](toloc.city_name)
+- show me [first class](class_type) fares from [dallas](fromloc.city_name) to [baltimore](toloc.city_name)
+- please show me again the [first class](class_type) fares from [baltimore](fromloc.city_name) to [dallas](toloc.city_name)
+- what are the [coach](class_type) fares for flights from [newark](fromloc.city_name) to [la](toloc.city_name) leaving [after](depart_time.time_relative) [3 pm](depart_time.time)
+- what is the [cheapest](cost_relative) fare from [dallas](fromloc.city_name) to [denver](toloc.city_name) [round trip](round_trip)
+- show me [economy](economy) fares from [dallas](fromloc.city_name) to [baltimore](toloc.city_name)
+- what are the [coach](class_type) fares for flights from [pittsburgh](fromloc.city_name) to [denver](toloc.city_name)
+- what is the airfare for flights from [denver](fromloc.city_name) to [pittsburgh](toloc.city_name) on [delta airline](airline_name)
+
+
+## intent:airfare and flight_time
+- show me the costs and [times](flight_time) for flights from [san francisco](fromloc.city_name) to [atlanta](toloc.city_name)
+
+
+## intent:airport
+- what 's the airport at [orlando](city_name)
+- give me a list of airports in [baltimore](city_name)
+- [houston](city_name)airports
+- please list information regarding [san francisco airport](airport_name)
+- what 's the name of the [denver airport](airport_name)
+- describe [pittsburgh airport](airport_name)
+- airports
+- what is the name of the airport in [philadelphia](city_name)
+- airports in [new york](city_name)
+- does the [philadelphia airport](airport_name) have a name
+- what is the name of the airport at [denver](city_name)
+- what airport is at [tampa](city_name)
+- please show me all airports in [denver](city_name)
+- airports in [new york](city_name)
+- show me airports near [washington](city_name) [dc](state_code)
+- where do the flights from [boston](fromloc.city_name) to [oakland](toloc.city_name) [stop](flight_stop)
+- names of airports
+- what airport in [new york](fromloc.city_name) is [closest](mod) to downtown
+- [houston](city_name)airports
+- show me airports in [washington](city_name) [dc](state_code)
+
+
+## intent:airline
+- which airline serves [denver](fromloc.city_name) [pittsburgh](fromloc.city_name) and [atlanta](fromloc.city_name)
+- show me the airlines with [first class](class_type) flights
+- which airline has the [most](mod) arrivals in [atlanta](toloc.city_name)
+- what airlines fly from [new york](fromloc.city_name) to [milwaukee](stoploc.city_name) to [los angeles](toloc.city_name)
+- which airlines serve [atlanta](city_name)
+- could you please tell me the airlines that fly from [toronto](fromloc.city_name) to [san diego](toloc.city_name)
+- which airlines have [first class](class_type) flights [today](depart_date.today_relative)
+- of all airlines which airline has the [most](mod) arrivals in [atlanta](toloc.city_name)
+- which airline has the [smallest](mod) plane leaving [pittsburgh](fromloc.city_name) and arriving in [baltimore](toloc.city_name) on [july](arrive_date.month_name) [fourth](arrive_date.day_number)
+- show me airline abbreviations
+- can you list all the airlines that have flights from [boston](fromloc.city_name) to [san francisco](toloc.city_name)
+- which airline can fly me from [atlanta](fromloc.city_name) to [denver](toloc.city_name) to [san francisco](toloc.city_name)
+- which airline provides [business class](class_type) flights
+- which airlines fly between [boston](fromloc.city_name) and [pittsburgh](toloc.city_name)
+- which airlines have flights between [philadelphia](fromloc.city_name) and [pittsburgh](toloc.city_name)
+- show me the airlines between [toronto](fromloc.city_name) and [denver](toloc.city_name)
+- which airlines are represented in the database
+- what is airline [us](airline_code)
+- show me the airlines from [love field](fromloc.airport_name)
+- what airlines fly between [boston](fromloc.city_name) and [san francisco](toloc.city_name) and stop in [denver](stoploc.city_name)
+- airline code [as](airline_code)
+- what airlines fly from [boston](fromloc.city_name) to [pittsburgh](toloc.city_name)
+- please tell me which airline has the [most](mod) departures from [atlanta](fromloc.city_name)
+- which airlines fly from [boston](fromloc.city_name) to [washington](toloc.city_name) [dc](toloc.state_code) but stopover in some other city
+- please list all airline flights between [denver](fromloc.city_name) and [boston](toloc.city_name)
+- airlines that fly to [miami](toloc.city_name) from [new york](fromloc.city_name) on [friday](depart_date.day_name)
+- what airlines go from [atlanta](fromloc.city_name) to [baltimore](toloc.city_name)
+- what airlines have [business class](class_type)
+- show me [first class](class_type) airlines from [san francisco](fromloc.city_name) to [pittsburgh](toloc.city_name) on [next](depart_date.date_relative) [tuesday](depart_date.day_name) [first class](class_type) only
+- what airlines fly between [boston](fromloc.city_name) and [san francisco](toloc.city_name)
+- do you have any airlines that would stop at [denver](stoploc.city_name) on the way from [baltimore](fromloc.city_name) to [san francisco](toloc.city_name)
+- does any airline have an [afternoon](depart_time.period_of_day) flight from [boston](fromloc.city_name) to [oakland](toloc.city_name)
+- what airlines fly from [boston](fromloc.city_name) to [atlanta](toloc.city_name)
+- what is airline [dl](airline_code)
+- which airlines fly between [baltimore](fromloc.city_name) and [san francisco](toloc.city_name)
+- what airlines fly from [boston](fromloc.city_name) to [denver](toloc.city_name)
+- what kind of airline is flight [ua](airline_code) [281](flight_number) from [boston](fromloc.city_name) to [denver](toloc.city_name)
+- which airlines fly between [boston](fromloc.city_name) and [philadelphia](toloc.city_name)
+- which airline is the [cheapest](cost_relative) to fly from [dallas](fromloc.city_name) to [baltimore](toloc.city_name) on [december](depart_date.month_name) [twenty fourth](depart_date.day_number)
+- show me the airlines for flights to or from [love field](fromloc.airport_name)
+- show me the airlines that fly between [toronto](fromloc.city_name) and [denver](toloc.city_name)
+- which airlines have flights from [san francisco](fromloc.city_name) to [washington](toloc.city_name) by way of [indianapolis](stoploc.city_name)
+- show all airlines with flights between [denver](fromloc.city_name) and [dallas](toloc.city_name)
+- please show me airlines with service from [boston](fromloc.city_name) to [denver](toloc.city_name)
+- what is airline [nw](airline_code)
+- what airline is the flight originating in [atlanta](fromloc.city_name) on [november](depart_date.month_name) [seventh](depart_date.day_number) at [noon](depart_time.time) and arriving in [san francisco](toloc.city_name) at [210 pm](arrive_time.time)
+- what airlines service [pittsburgh airport](airport_name)
+- what airlines fly from [boston](fromloc.city_name) to [pittsburgh](toloc.city_name)
+- what airlines flies out of [atlanta](fromloc.city_name)
+- what airlines fly [boston](fromloc.city_name) to [baltimore](toloc.city_name)
+- what does the airline code [dl](airline_code) stand for
+- what airlines have [nonstop](flight_stop) [early](depart_time.period_of_day) [afternoon](arrive_time.period_of_day) flights from [boston](fromloc.city_name) to [denver](toloc.city_name)
+- which airlines fly from [boston](fromloc.city_name) to [washington](toloc.city_name)
+- show me a list of all the airlines that offer [business class](class_type) service
+- which airlines fly from [toronto](fromloc.city_name) to [san diego](toloc.city_name) and have a stopover in [denver](stoploc.city_name)
+- which airline offers the [cheapest](cost_relative) rate going from [dallas](fromloc.city_name) to [baltimore](toloc.city_name) on [july](depart_date.month_name) [fourth](depart_date.day_number)
+- which airlines serve [denver](city_name)
+- what airline is [as](airline_code)
+- show me the airlines that use [love field](airport_name)
+- please show me airlines with flights from [denver](fromloc.city_name) to [boston](toloc.city_name) stop [philadelphia](stoploc.city_name)
+- please show me airlines with flights from [philadelphia](fromloc.city_name) to [dallas](toloc.city_name)
+- tell me which airlines have flights from [pittsburgh](fromloc.city_name) to [san francisco](toloc.city_name) on [monday](depart_date.day_name) [september](depart_date.month_name) [second](depart_date.day_number)
+- what airlines from [washington](fromloc.city_name) [dc](fromloc.state_code) to [columbus](toloc.city_name)
+- give me a list of airlines in [pittsburgh](city_name)
+- show me airlines going from [pittsburgh](fromloc.city_name) going to [denver](toloc.city_name) and then continuing to [san francisco](toloc.city_name) on [monday](depart_date.day_name)
+- what kind of airline is flight [ua](airline_code) [281](flight_number) from [boston](fromloc.city_name) to [denver](toloc.city_name)
+- show me airline abbreviations
+- define airline [hp](airline_code)
+- please show me airlines with flight service from [boston](fromloc.city_name) to [denver](toloc.city_name) from [denver](fromloc.city_name) to [philadelphia](toloc.city_name) and from [philadelphia](fromloc.city_name) to [boston](toloc.city_name)
+- which airlines fly between [boston](fromloc.city_name) and [baltimore](toloc.city_name)
+- what airline is [hp](airline_code)
+- which airlines have [first class](class_type) flights [today](depart_date.today_relative)
+- what airlines fly between [atlanta](fromloc.city_name) and [san francisco](toloc.city_name)
+- what airlines fly between [san francisco](fromloc.city_name) and [denver](toloc.city_name)
+- are there any airlines that have flights from [boston](fromloc.city_name) to [philadelphia](toloc.city_name) that leave [before](depart_time.time_relative) [630 am](depart_time.time)
+- does any airline offer [dc10](aircraft_code) service between [denver](fromloc.city_name) and [boston](toloc.city_name)
+- what is airline [ff](airline_code)
+- which airlines have [daily](flight_days) flights from [boston](fromloc.city_name) to [dallas](toloc.city_name)
+- show all airlines flying from [pittsburgh](fromloc.city_name) to [san francisco](toloc.city_name)
+- what airlines are [ac](airline_code) and [as](airline_code)
+- please show me airlines with flights from [denver](fromloc.city_name) to [boston](toloc.city_name) with a stopover in [philadelphia](stoploc.city_name)
+- please show me all airlines with [sunday](depart_date.day_name) flights from [philadelphia](fromloc.city_name) to [denver](toloc.city_name)
+- which airlines fly from [boston](fromloc.city_name) to [washington](toloc.city_name) [dc](toloc.state_code) via other cities
+- what airlines fly from [boston](fromloc.city_name) to [washington](toloc.city_name)
+- show me the airlines between [boston](fromloc.city_name) and [toronto](toloc.city_name)
+- please show me airlines with flights from [denver](fromloc.city_name) to [boston](toloc.city_name) with stop in [philadelphia](stoploc.city_name)
+- what airlines have flights from [boston](fromloc.city_name) to [philadelphia](toloc.city_name) that leave [before](depart_time.time_relative) [630 am](depart_time.time)
+- what airlines fly from [toronto](fromloc.city_name) to [san diego](toloc.city_name)
+- which airlines fly between [boston](fromloc.city_name) and [pittsburgh](toloc.city_name)
+- which airline has the [most](mod) [business class](class_type) flights
+- what airline [besides](mod) [continental](airline_name) flies between [boston](fromloc.city_name) and [denver](toloc.city_name)
+- what airline is [dl](airline_code)
+- what airline uses the code [hp](airline_code)
+- please show me airlines with [round trip](round_trip) flights from [boston](fromloc.city_name) to [denver](toloc.city_name) stop [philadelphia](stoploc.city_name)
+- which airlines have flights between [charlotte](fromloc.city_name) and [newark](toloc.city_name)
+- what airlines leave from [washington](fromloc.city_name)
+- what airlines fly into [salt lake city](toloc.city_name)
+- please show me airlines with flights from [boston](fromloc.city_name) to [denver](toloc.city_name)
+- what airlines are there
+- what is airline [nw](airline_code)
+- what airline is [ea](airline_code)
+- does any airline have an [early](depart_time.period_of_day) [afternoon](depart_time.period_of_day) flight from [boston](fromloc.city_name) to [pittsburgh](toloc.city_name)
+- show me airlines with flights from [pittsburgh](fromloc.city_name) to [boston](toloc.city_name) please
+- what airlines fly from [philadelphia](fromloc.city_name) to [san francisco](toloc.city_name)
+- can you tell me what airline flies between [denver](fromloc.city_name) and [san francisco](toloc.city_name)
+- show me the airlines that fly from [toronto](fromloc.city_name) to [san francisco](toloc.city_name)
+- which airlines go from [san francisco](fromloc.city_name) to [washington](toloc.city_name) by way of [indianapolis](stoploc.city_name)
+- show me the airlines for flights to or from [love field](fromloc.airport_name)
+- which airline has [more](mod) [business class](class_type) flights than any other airline
+- which airlines have connections between [pittsburgh](fromloc.city_name) and [baltimore](toloc.city_name)
+- list all the airlines that fly into [general mitchell international](toloc.airport_name)
+- what airlines have [business class](class_type) service between [boston](fromloc.city_name) and [san francisco](toloc.city_name)
+- please show me airlines with flights from [denver](fromloc.city_name) to [philadelphia](toloc.city_name)
+- which airlines fly from [bwi](fromloc.airport_code) to [dallas fort worth](toloc.city_name)
+- what airline is [dl](airline_code) [98](flight_number)
+- which airlines fly from [boston](fromloc.city_name) to [san francisco](toloc.city_name)
+- what airlines fly from [st. petersburg](fromloc.city_name) to [milwaukee](toloc.city_name) and from [milwaukee](fromloc.city_name) to [tacoma](toloc.city_name)
+- show me the airlines that fly from [denver](fromloc.city_name) to [san francisco](toloc.city_name)
+- what airlines fly from [toronto](fromloc.city_name) to [san diego](toloc.city_name) with a stopover in [denver](stoploc.city_name)
+- what airlines fly from [burbank](fromloc.city_name) to [denver](toloc.city_name)
+- do the airlines still offer [first class](class_type)
+- what airlines fly from [dallas](fromloc.city_name) to [baltimore](toloc.city_name)
+- what airlines fly between [boston](fromloc.city_name) and [atlanta](toloc.city_name)
+- does any airline have an [early](depart_time.period_of_day) [afternoon](depart_time.period_of_day) flight from [boston](fromloc.city_name) to [denver](toloc.city_name)
+- which airlines have flights from [denver](fromloc.city_name) to [pittsburgh](toloc.city_name)
+- list all the airlines flying between [washington](fromloc.city_name) and [denver](toloc.city_name)
+- show me the airlines between [boston](fromloc.city_name) and [denver](toloc.city_name)
+- which airlines fly from [boston](fromloc.city_name) to [washington](toloc.city_name) [dc](toloc.state_code) via other cities
+- can i take a single airline from [la](fromloc.city_name) to [charlotte](toloc.city_name) to [newark](toloc.city_name) back to [la](fromloc.city_name)
+- which airlines serve [pittsburgh](city_name)
+- show me the airlines that fly from [toronto](fromloc.city_name) to [boston](toloc.city_name)
+- list all the airlines that service [denver](city_name)
+- which airlines provide [direct](connect) flights between [washington](fromloc.city_name) and [denver](toloc.city_name)
+- show me the airlines that fly from [san francisco](fromloc.city_name) to [boston](toloc.city_name)
+- which airlines have [nonstop](flight_stop) flights from [kansas city](fromloc.city_name) to [chicago](toloc.city_name)
+- what airlines fly from [boston](fromloc.city_name) to [san francisco](toloc.city_name)
+- does any airline have a jet flight between [pittsburgh](fromloc.city_name) and [baltimore](toloc.city_name)
+- is there an airline that has a flight from [philadelphia](fromloc.city_name) to [san francisco](toloc.city_name) with a stop in [dallas](stoploc.city_name)
+- is [us air](airline_name)
+- what airline is [ac](airline_code)
+- does any airline have an [afternoon](depart_time.period_of_day) flight from [atlanta](fromloc.city_name) to [boston](toloc.city_name)
+- show me the airlines
+- what airline is [ea](airline_code) the abbreviation for
+- what airline stands for [hp](airline_code)
+- is there an airline that advertises having [more](mod) flights than any other airline
+- what airlines fly from [boston](fromloc.city_name) to [atlanta](toloc.city_name)
+- show me airlines between [boston](fromloc.city_name) and [san francisco](toloc.city_name)
+- which companies fly between [boston](fromloc.city_name) and [oakland](toloc.city_name)
+- list airlines serving between [denver](fromloc.city_name) and [san francisco](toloc.city_name)
+- show me the names of airlines in [atlanta](city_name)
+- list the airlines that have [nonstop](flight_stop) [afternoon](arrive_time.period_of_day) flights from [boston](fromloc.city_name) to [oakland](toloc.city_name)
+- which airlines fly from [boston](fromloc.city_name) to [washington](toloc.city_name) [dc](toloc.state_code)
+- is there an airline that services [boston](fromloc.city_name) [dc](fromloc.state_code) and [dallas](fromloc.city_name)
+- airline that stands for [dl](airline_code)
+- what airlines have flights from [baltimore](fromloc.city_name) to [seattle](toloc.city_name)
+- what airlines go to [pittsburgh](toloc.city_name)
+- which airlines fly into and out of [denver](city_name)
+
+
+## intent:airline and flight_no
+- airline and flight number from [columbus](fromloc.city_name) to [minneapolis](toloc.city_name)
+- may i please see airlines and flight numbers from [new york](fromloc.city_name) to [toronto](toloc.city_name) on the [same](depart_date.date_relative) date [june](depart_date.month_name) [seventeenth](depart_date.day_number) also arriving in [toronto](toloc.city_name) [before](arrive_time.time_relative) [noon](arrive_time.time) thank you
+
+
+## intent:capacity
+- how many seats in a [100](aircraft_code)
+- how many passengers fit on a [d9s](aircraft_code)
+- how many seats in a [72s](aircraft_code)
+- what is the [total](mod) seating capacity of all aircraft of [american airlines](airline_name)
+- what 's the capacity of an [f28](aircraft_code)
+- what are the seating capacities of planes between [pittsburgh](fromloc.city_name) and [baltimore](toloc.city_name)
+- list number of people that can be carried on each type of plane that flies between [pittsburgh](fromloc.city_name) and [baltimore](toloc.city_name)
+- how many people fit on a [73s](aircraft_code)
+- how many people fit on a [72s](aircraft_code) airplane
+- what is the seating capacity of a boeing [767](aircraft_code)
+- what 's the capacity of a [733](aircraft_code)
+- what is the seating capacity for the [f28](aircraft_code)
+- how many people fly on a turboprop
+- how many seats in a [734](aircraft_code)
+- what is the seating capacity of the various airplanes that [united airlines](airline_name) uses
+- how many passengers can a boeing [737](aircraft_code) hold
+
+
+## intent:cheapest
+- show me the [cheapest](cost_relative) fare in the database
+
+
+## intent:city
+- what city is the airport [mco](fromloc.airport_code) in
+- where is [mco](airport_code)
+- where is [general mitchell international](airport_name) located
+- where is [general mitchell international](airport_name) located
+- show me the cities served by [nationair](airline_name)
+- where is [lester pearson airport](airport_name)
+- show me all the cities that [midwest](airline_name) express serves
+- show me the cities served by [canadian airlines international](airline_name)
+- is [bwi](airport_code) [washington](city_name)
+- what time zone is [denver](city_name) in
+- show me city served both by [nationair](airline_name) and [canadian airlines international](airline_name)
+- what cities are served by [canadian airlines international](airline_name)
+- which cities does [united airlines](airline_name) service
+- what cities does [continental](airline_name) service
+- what are the cities that [american airlines](airline_name) serves
+- what are the cities served by [delta airlines](airline_name)
+- are there any other cities that i can fly from [boston](fromloc.city_name) to [dallas](toloc.city_name) through that i can get a flight [earlier](depart_time.time_relative) than [1017](depart_time.time) in the [morning](depart_time.period_of_day)
+- which cities are serviced by both [american](airline_name) and [delta airlines](airline_name)
+- what city is [mco](airport_code)
+
+
+## intent:distance
+- how far is it from [orlando airport](fromloc.airport_name) to [orlando](toloc.city_name)
+- what is the distance from [los angeles international airport](fromloc.airport_name) to [los angeles](toloc.city_name)
+- tell me distance from [orlando airport](fromloc.airport_name) to the city
+- how far is downtown from the airport in [dallas](fromloc.city_name)
+- how long does it take to get from [atlanta airport](fromloc.airport_name) into the city of [atlanta](toloc.city_name)
+- how long does it take to get from [kansas city](fromloc.city_name) to [st. paul](toloc.city_name)
+- what is the distance between [pittsburgh airport](fromloc.airport_name) and downtown [pittsburgh](toloc.city_name)
+- how long does it take to fly from [boston](fromloc.city_name) to [atlanta](toloc.city_name)
+- how far is the airport from [san francisco](fromloc.city_name)
+- what is the distance from [la guardia](fromloc.airport_name) to [new york 's](toloc.city_name) downtown
+- how far from the airport in the [dallas fort worth airport](fromloc.airport_name) is [dallas](fromloc.city_name)
+- how far is the airport from downtown [pittsburgh](fromloc.city_name)
+- how far is it from [salt lake city airport](fromloc.airport_name) to [salt lake city](toloc.city_name)
+- how long does it take to get from [denver](fromloc.city_name) to [oakland](toloc.city_name)
+- what is the distance from [san francisco international airport](fromloc.airport_name) to [san francisco](toloc.city_name)
+- how long is a trip from [philadelphia airport](fromloc.airport_name) to downtown [philadelphia](toloc.city_name)
+- what is the distance from [toronto international airport](fromloc.airport_name) to [toronto](toloc.city_name)
+- what is the distance from [boston airport](fromloc.airport_name) to [boston](toloc.city_name)
+- how far is [oakland airport](fromloc.airport_name) from downtown
+- how long is the flight from [atlanta](fromloc.city_name) to [san francisco](toloc.city_name) at [noon](depart_time.time) on [november](depart_date.month_name) [seventh](depart_date.day_number)
+
+
+## intent:flight
+- i want to fly from [boston](fromloc.city_name) at [838 am](depart_time.time) and arrive in [denver](toloc.city_name) at [1110](arrive_time.time) in the [morning](arrive_time.period_of_day)
+- what flights are available from [pittsburgh](fromloc.city_name) to [baltimore](toloc.city_name) on [thursday](depart_date.day_name) [morning](depart_time.period_of_day)
+- i need a flight [tomorrow](depart_date.today_relative) from [columbus](fromloc.city_name) to [minneapolis](toloc.city_name)
+- show me the flights from [pittsburgh](fromloc.city_name) to [los angeles](toloc.city_name) on [thursday](depart_date.day_name)
+- all flights from [boston](fromloc.city_name) to [washington](toloc.city_name)
+- show me the flights from [dallas](fromloc.city_name) to [san francisco](toloc.city_name)
+- show me the flights from [san diego](fromloc.city_name) to [newark](toloc.city_name) by way of [houston](stoploc.city_name)
+- what is the [cheapest](cost_relative) flight from [boston](fromloc.city_name) to [bwi](toloc.airport_code)
+- all flights to [baltimore](toloc.city_name) [after](depart_time.time_relative) [6 pm](depart_time.time)
+- all flights from [denver](fromloc.city_name) to [pittsburgh](toloc.city_name) leaving [after](depart_time.time_relative) [6 pm](depart_time.time) and [before](depart_time.time_relative) [7 pm](depart_time.time)
+- i need information on flights for [tuesday](depart_date.day_name) leaving [baltimore](fromloc.city_name) for [dallas](toloc.city_name) [dallas](fromloc.city_name) to [boston](toloc.city_name) and [boston](fromloc.city_name) to [baltimore](toloc.city_name)
+- please give me the flights from [boston](fromloc.city_name) to [pittsburgh](toloc.city_name) on [thursday](depart_date.day_name) of [next](depart_date.date_relative) week
+- i would like to fly from [denver](fromloc.city_name) to [pittsburgh](toloc.city_name) on [united airlines](airline_name)
+- show me the flights from [san diego](fromloc.city_name) to [newark](toloc.city_name)
+- please list all [first class](class_type) flights on [united](airline_name) from [denver](fromloc.city_name) to [baltimore](toloc.city_name)
+- i 'd like to book a flight from [atlanta](fromloc.city_name) to [denver](toloc.city_name)
+- show me all flights from [boston](fromloc.city_name) to [pittsburgh](toloc.city_name) on [wednesday](depart_date.day_name) of [next](depart_date.date_relative) week which leave [boston](fromloc.city_name) [after](depart_time.time_relative) [2 o'clock pm](depart_time.time)
+- i also need service from [dallas](fromloc.city_name) to [boston](toloc.city_name) arriving [by](arrive_time.time_relative) [noon](arrive_time.time)
+- list flights from [boston](fromloc.city_name) to [san francisco](toloc.city_name) that serve only [breakfast](meal_description)
+- okay i 'd like to fly from [denver](fromloc.city_name) to [pittsburgh](toloc.city_name)
+- i 'd like a flight from [montreal](fromloc.city_name) to [san diego](toloc.city_name) for [sunday](depart_date.day_name)
+- i need a flight from [montreal](fromloc.city_name) [quebec](fromloc.state_name) to [san diego](toloc.city_name) [california](toloc.state_name) leaving [this](depart_date.date_relative) [sunday](depart_date.day_name)
+- give me a list of all the flights from [baltimore](fromloc.city_name) to [philadelphia](toloc.city_name) [or](or) [denver](fromloc.city_name) to [philadelphia](toloc.city_name) [or](or) [pittsburgh](fromloc.city_name) to [philadelphia](toloc.city_name)
+- i need a listing of flights from [new york city](fromloc.city_name) to [montreal](toloc.city_name) [canada](toloc.country_name) departing [thursday](depart_date.day_name) in the [morning](depart_time.period_of_day)
+- show me all the flights from [philadelphia](fromloc.city_name) to [newark](toloc.city_name)
+- how can i go from the [san francisco airport](fromloc.airport_name) to downtown [san francisco](toloc.city_name)
+- i would like to fly from [denver](fromloc.city_name) to [atlanta](toloc.city_name) by way of [pittsburgh](stoploc.city_name)
+- [baltimore](fromloc.city_name)to [philadelphia](toloc.city_name)
+- give me flights from [denver](fromloc.city_name) to [baltimore](toloc.city_name)
+- the flight will originate from [boston](fromloc.city_name)
+- flights from [kansas city](fromloc.city_name) to [cleveland](toloc.city_name) and price
+- on [tuesday](depart_date.day_name) what flights leave [phoenix](fromloc.city_name) to [st. paul](toloc.city_name) [minnesota](toloc.state_name) and leave [after](depart_time.time_relative) [noon](depart_time.time)
+- list flights from [detroit](fromloc.city_name) to [san diego](toloc.city_name) on [thursday](depart_date.day_name)
+- what flights are there from [phoenix](fromloc.city_name) to [milwaukee](toloc.city_name)
+- what flights go from [philadelphia](fromloc.city_name) to [san francisco](toloc.city_name) with a stopover in [dallas](stoploc.city_name)
+- show flights from [denver](fromloc.city_name) to [oakland](toloc.city_name) that arrive [after](arrive_time.time_relative) [12 o'clock](arrive_time.time)
+- find me the [earliest](flight_mod) flight from [boston](fromloc.city_name) to [atlanta](toloc.city_name) on any day of the week
+- show me all flights from [denver](fromloc.city_name) to [philadelphia](toloc.city_name) which leave [next](depart_date.date_relative) [saturday](depart_date.day_name) [afternoon](depart_time.period_of_day)
+- show me flights from [atlanta](fromloc.city_name) to [baltimore](toloc.city_name) [denver](toloc.city_name) and [dallas](toloc.city_name)
+- [one way](round_trip)
+- list all flights on [saturday](depart_date.day_name) from [dallas](fromloc.city_name) to [san francisco](toloc.city_name) [nonstop](flight_stop)
+- can you give me a list of the flights from [atlanta](fromloc.city_name) to [boston](toloc.city_name)
+- please give me a list of flights leaving [boston](fromloc.city_name) going to [pittsburgh](toloc.city_name)
+- what is the [earliest](flight_mod) flight from [washington](fromloc.city_name) to [atlanta](toloc.city_name) leaving on [wednesday](depart_date.day_name) [september](depart_date.month_name) [fourth](depart_date.day_number)
+- show me all flights from [atlanta](fromloc.city_name) to [dallas](toloc.city_name) [round trip](round_trip) [less](cost_relative) than [1100 dollars](fare_amount)
+- what flights return from [denver](fromloc.city_name) to [philadelphia](toloc.city_name) on a [saturday](depart_date.day_name)
+- flights from [dallas](fromloc.city_name) to [houston](toloc.city_name) in the [morning](depart_time.period_of_day)
+- what are your flights from [pittsburgh](fromloc.city_name) to [baltimore](toloc.city_name)
+- the [earliest](flight_mod) flight from [boston](fromloc.city_name) to [san francisco](toloc.city_name) please that will be serving a [meal](meal)
+- give me [sunday](depart_date.day_name) [nonstop](flight_stop) flights from [memphis](fromloc.city_name) to [las vegas](toloc.city_name)
+- on the flight from [baltimore](fromloc.city_name) to [san francisco](toloc.city_name) on [us air](airline_name) leaving at [420](depart_time.time) what type of aircraft is used
+- i want a [evening](depart_time.period_of_day) flight from [dallas](fromloc.city_name) to [milwaukee](toloc.city_name)
+- let 's look at [baltimore](fromloc.city_name) to [philadelphia](toloc.city_name) again
+- can i go from [boston](fromloc.city_name) to [san francisco](toloc.city_name) with a stopover in [denver](stoploc.city_name)
+- is there a flight between [washington](fromloc.city_name) [dc](fromloc.state_code) and [san francisco](toloc.city_name) on [us air](airline_name) at [8 am](depart_time.time)
+- show me all flights from [pittsburgh](fromloc.city_name) which leave [tomorrow](depart_date.today_relative) and arrive in [boston](toloc.city_name)
+- all am flights departing [pittsburgh](fromloc.city_name) arriving [denver](toloc.city_name)
+- what flights leave [after](depart_time.time_relative) [7 pm](depart_time.time) from [pittsburgh](fromloc.city_name) to [philadelphia](toloc.city_name)
+- show flights from [philadelphia](fromloc.city_name) to [san francisco](toloc.city_name)
+- what flights leave [chicago](fromloc.city_name) and arrive in [detroit](toloc.city_name) [around](arrive_time.time_relative) [6 pm](arrive_time.time) [next](arrive_date.date_relative) [tuesday](arrive_date.day_name)
+- what are the [morning](depart_time.period_of_day) flights in the [next](depart_date.date_relative) two days from [nashville](fromloc.city_name) to [tacoma](toloc.city_name)
+- what is the [last](flight_mod) flight leaving [san francisco](fromloc.city_name) going to [washington](toloc.city_name) on [friday](depart_date.day_name)
+- what are the flights from [dallas](fromloc.city_name) to [san francisco](toloc.city_name) on [tuesday](depart_date.day_name) [october](depart_date.month_name) [first](depart_date.day_number)
+- does [united airlines](airline_name) fly from [boston](fromloc.city_name) to [dallas fort worth](toloc.city_name)
+- flights from [cleveland](fromloc.city_name) to [kansas city](toloc.city_name) on [monday](depart_date.day_name)
+- i would like to find a flight that goes from [boston](fromloc.city_name) to [orlando](toloc.city_name) i would like it to have a stop in [new york](stoploc.city_name) and i would like a flight that serves [breakfast](meal_description)
+- okay and then from [pittsburgh](fromloc.city_name) i 'd like to travel to [atlanta](toloc.city_name) on [september](depart_date.month_name) [fourth](depart_date.day_number)
+- what flights go from [pittsburgh](fromloc.city_name) to [baltimore](toloc.city_name) [after](depart_time.time_relative) [8 o'clock](depart_time.time) [next](depart_date.date_relative) [wednesday](depart_date.day_name)
+- i would like to fly from [boston](fromloc.city_name) to [san francisco](toloc.city_name)
+- are there any flights on [june](depart_date.month_name) [eleventh](depart_date.day_number) from [st. petersburg](fromloc.city_name) to [milwaukee](toloc.city_name)
+- show me flights from [pittsburgh](fromloc.city_name) to [san francisco](toloc.city_name) on [sunday](depart_date.day_name)
+- can you list all flights from [chicago](fromloc.city_name) to [milwaukee](toloc.city_name)
+- display all flights from [denver](fromloc.city_name) to [san francisco](toloc.city_name) on [august](depart_date.month_name) [seven](depart_date.day_number)
+- which of the flights from [pittsburgh](fromloc.city_name) to [baltimore](toloc.city_name) on [july](depart_date.month_name) [twenty fifth](depart_date.day_number) [1991](depart_date.year) carries the [smallest](mod) number of passengers
+- show me all the flights to [baltimore](toloc.city_name) [after](depart_time.time_relative) [6 o'clock pm](depart_time.time)
+- show me flights from [baltimore](fromloc.city_name) to [dallas](toloc.city_name)
+- can you list all flights between [milwaukee](fromloc.city_name) and [chicago](toloc.city_name)
+- [last](flight_mod) [nonstop](flight_stop) flight from [los angeles](fromloc.city_name) to [pittsburgh](toloc.city_name) on [monday](arrive_date.day_name) [night](arrive_time.period_of_day)
+- what is the [earliest](flight_mod) flight from [boston](fromloc.city_name) to [san francisco](toloc.city_name)
+- i would like an [early](depart_time.period_of_day) [morning](depart_time.period_of_day) flight from [chicago](fromloc.city_name) into [seattle](toloc.city_name) on [june](depart_date.month_name) [first](depart_date.day_number) on [continental airline](airline_name)
+- show me the flights from [dallas](fromloc.city_name) to [baltimore](toloc.city_name)
+- give me the flights from [baltimore](fromloc.city_name) to [pittsburgh](toloc.city_name)
+- please list the flights from [charlotte](fromloc.city_name) to [long beach](toloc.city_name) arriving [after](arrive_time.time_relative) [lunch time](arrive_time.period_of_day)
+- what flights are available between [philadelphia](fromloc.city_name) and [denver](toloc.city_name) on [september](depart_date.month_name) [sixteenth](depart_date.day_number)
+- i would like the [cheapest](cost_relative) flight from [boston](fromloc.city_name) to [san francisco](toloc.city_name)
+- are there any flights from [boston](fromloc.city_name) to [oakland](toloc.city_name) that [stop](flight_stop)
+- i would like to find a flight from [pittsburgh](fromloc.city_name) to [boston](toloc.city_name) on [wednesday](depart_date.day_name) and i have to be in [boston](toloc.city_name) [by](arrive_time.time_relative) [one](arrive_time.time) so i 'd like a flight out of here [no later than](depart_time.time_relative) 11 am
+- i need information on a flight from [washington](fromloc.city_name) to [fort worth](toloc.city_name)
+- can you tell me what flights you have from [baltimore](fromloc.city_name) to [dallas](toloc.city_name)
+- give me flights from [baltimore](fromloc.city_name) to [denver](toloc.city_name) on [united](airline_name) that offer [first class](class_type)
+- does [american airlines](airline_name) have a flight from [pittsburgh](fromloc.city_name) to [atlanta](toloc.city_name)
+- list flights from [denver](fromloc.city_name) to [baltimore](toloc.city_name)
+- i would like a list of the [round trip](round_trip) flights between [indianapolis](fromloc.city_name) and [orlando](toloc.city_name) on the [twenty seventh](depart_date.day_number) [or](or) the [twenty eighth](depart_date.day_number) of [december](depart_date.month_name)
+- i need a return flight from [denver](fromloc.city_name) to [atlanta](toloc.city_name)
+- i 'd like a flight from [burbank](fromloc.city_name) to [tacoma](toloc.city_name) [washington](toloc.state_name)
+- what flights from [atlanta](fromloc.city_name) to [washington](toloc.city_name)
+- please list all flights from [atlanta](fromloc.city_name) to [baltimore](toloc.city_name) on [wednesday](depart_date.day_name) and [thursday](depart_date.day_name)
+- what is the [latest](flight_mod) flight between [washington](fromloc.city_name) and [boston](toloc.city_name)
+- the [latest](flight_mod) flight from [baltimore](fromloc.city_name) to [oakland](toloc.city_name) please and i 'd like a [meal](meal) with that
+- what are the flights on [january](depart_date.month_name) [first](depart_date.day_number) [1992](depart_date.year) from [boston](fromloc.city_name) to [san francisco](toloc.city_name)
+- on [november](depart_date.month_name) [twenty third](depart_date.day_number) what flights are available between [boston](fromloc.city_name) and [denver](toloc.city_name)
+- list [nonstop](flight_stop) flights on [sunday](arrive_date.day_name) from [new york](fromloc.city_name) to [las vegas](toloc.city_name) and list [nonstop](flight_stop) flights on [sunday](arrive_date.day_name) from [memphis](fromloc.city_name) to [las vegas](toloc.city_name)
+- show me the list of flights from [dallas](fromloc.city_name) to [baltimore](toloc.city_name) on [american](airline_name) and [delta airlines](airline_name)
+- could you show me all [weekday](flight_mod) flights from [phoenix](fromloc.city_name) to [denver](toloc.city_name)
+- show me all [united airlines](airline_name) [first class](class_type) flights
+- find a flight on [delta](airline_name) from [philadelphia](fromloc.city_name) to [san francisco](toloc.city_name)
+- what flights go from [philadelphia](fromloc.city_name) to [dallas](toloc.city_name) via [atlanta](stoploc.city_name)
+- i 'd like a [nonstop](flight_stop) flight from [indianapolis](fromloc.city_name) to [san diego](toloc.city_name) that serves [dinner](meal_description) what 's available
+- are there any flights from [boston](fromloc.city_name) to [san francisco](toloc.city_name) which stop in [denver](stoploc.city_name)
+- please give me all flights from [long beach](fromloc.city_name) to [memphis](toloc.city_name)
+- flight from [denver](fromloc.city_name) to [dallas fort worth](toloc.city_name)
+- list flights from [san francisco](fromloc.city_name) to [pittsburgh](toloc.city_name)
+- find a flight from [philadelphia](fromloc.city_name) to [san francisco](toloc.city_name) please on [delta](airline_name)
+- i 'm looking for a flight from [oakland](fromloc.city_name) to [denver](toloc.city_name) with a stopover in [dallas fort worth](stoploc.city_name)
+- what flights are there on [saturdays](depart_date.day_name) from [philadelphia](fromloc.city_name) to [denver](toloc.city_name)
+- i need a flight from [denver](fromloc.city_name) to [washington](toloc.city_name) [dc](toloc.state_code) on [wednesday](depart_date.day_name)
+- show me the flights from [columbus](fromloc.city_name) to [charlotte](toloc.city_name)
+- oh let 's see does [eastern airline](airline_name) have a flight from [atlanta](fromloc.city_name) to [washington](toloc.city_name)
+- flights from [atlanta](fromloc.city_name) to [dallas](toloc.city_name) in the [afternoon](depart_time.period_of_day)
+- [eastern](airline_name)flight [825](flight_number) from [atlanta](fromloc.city_name) to [denver](toloc.city_name) leaving at [555](depart_time.time) what type of aircraft is used on that flight
+- what are all the flights between [san francisco](fromloc.city_name) and [boston](toloc.city_name)
+- i want to fly [philadelphia](fromloc.city_name) to [san francisco](toloc.city_name) on [july](depart_date.month_name) [eighth](depart_date.day_number)
+- find a flight from [boston](fromloc.city_name) to [washington](toloc.city_name) on [monday](depart_date.day_name)
+- give me information on flights from [atlanta](fromloc.city_name) to [washington](toloc.city_name) [dc](toloc.state_code) on [wednesday](depart_date.day_name) [after](depart_time.time_relative) [4 pm](depart_time.time) and [thursday](depart_date.day_name) [before](depart_time.time_relative) [9 am](depart_time.time)
+- find the flights from [boston](fromloc.city_name) to [san francisco](toloc.city_name) leaving [after](depart_time.time_relative) [6 pm](depart_time.time)
+- i live in [denver](fromloc.city_name) and i 'd like to make a trip to [pittsburgh](toloc.city_name)
+- give me flights that arrive in [baltimore](toloc.city_name) from [atlanta](fromloc.city_name) [denver](fromloc.city_name) and [pittsburgh](fromloc.city_name)
+- hello i 'm trying to find a flight that goes from [pittsburgh](fromloc.city_name) to [denver](toloc.city_name) [after](depart_time.time_relative) [2 pm](depart_time.time)
+- what are the [least expensive](cost_relative) flights from [denver](fromloc.city_name) to [atlanta](toloc.city_name)
+- list [united](airline_name) flights from [denver](fromloc.city_name) to [san francisco](toloc.city_name) on [tuesdays](depart_date.day_name) [or](or) [wednesdays](depart_date.day_name)
+- show me the flights on [delta](airline_name) [or](or) [twa](airline_code) which go through [atlanta](stoploc.city_name)
+- is there a flight leaving [san francisco](fromloc.city_name) to [denver](toloc.city_name)
+- show flights leaving [boston](fromloc.city_name) on [wednesday](depart_date.day_name) [morning](depart_time.period_of_day) and arriving in [denver](toloc.city_name)
+- show me all [daily](flight_days) flights out of [boston](fromloc.city_name) that have [coach class](class_type)
+- i need an [early](flight_mod) flight from [denver](fromloc.city_name) to [san francisco](toloc.city_name) please and i would like [breakfast](meal_description) served on that
+- [dallas](fromloc.city_name)to [baltimore](toloc.city_name)
+- may i have a listing of flights on [monday](depart_date.day_name) from [minneapolis](fromloc.city_name) to [long beach](toloc.city_name) [california](toloc.state_name) please
+- [630 am](depart_time.time)flight on [august](depart_date.month_name) [twenty seventh](depart_date.day_number) from [atlanta](fromloc.city_name) to [dallas](toloc.city_name)
+- i need a flight from [philadelphia](fromloc.city_name) to [san francisco](toloc.city_name) [next](depart_date.date_relative) [wednesday](depart_date.day_name)
+- now show me the flights from [denver](fromloc.city_name) to [philadelphia](toloc.city_name) on a [saturday](depart_date.day_name)
+- show me all flights from [denver](fromloc.city_name) to [burbank](toloc.city_name)
+- show me all flights from [san francisco](fromloc.city_name) that go to [boston](toloc.city_name) [baltimore](toloc.city_name) or [philadelphia](toloc.city_name)
+- please list all the flights from [boston](fromloc.city_name) to [san francisco](toloc.city_name) leaving [before](depart_time.time_relative) [10 am](depart_time.time)
+- [shortest](flight_mod)flights from [nashville](fromloc.city_name) to [st. petersburg](toloc.city_name)
+- what [delta](airline_name) flights from [cincinnati](fromloc.city_name) to [new york city](toloc.city_name) arrive at [new york city](toloc.city_name) [before](arrive_time.time_relative) [6 pm](arrive_time.time) on [saturday](arrive_date.day_name)
+- are there any flights from [denver](fromloc.city_name) to [atlanta](toloc.city_name) which [connect](connect) in [pittsburgh](stoploc.city_name)
+- show me the flights from [newark](fromloc.city_name) [new jersey](fromloc.state_name) to [ontario international](toloc.airport_name) [next](depart_date.date_relative) [saturday](depart_date.day_name)
+- show all [nonstop](flight_stop) flights from [boston](fromloc.city_name) to [atlanta](toloc.city_name)
+- give me the flights from [new york](fromloc.city_name) to [las vegas](toloc.city_name) and [memphis](fromloc.city_name) to [las vegas](toloc.city_name) on [sunday](depart_date.day_name)
+- show me the [southwest airlines](airline_name) flights from [san diego](fromloc.city_name) to [san francisco](toloc.city_name)
+- what flights leaving [pittsburgh](fromloc.city_name) arrive in [denver](toloc.city_name) and leave [after](depart_time.time_relative) say [6 o'clock](depart_time.time) at [night](depart_time.period_of_day)
+- show me the flights from [denver](fromloc.city_name) to [westchester county](toloc.city_name)
+- show me the [earliest](flight_mod) flight on [wednesday](depart_date.day_name) from [baltimore](fromloc.city_name) to [newark](toloc.city_name)
+- what are the [evening](depart_time.period_of_day) flights from [atlanta](fromloc.city_name) to [baltimore](toloc.city_name)
+- what flights stop in [atlanta](stoploc.city_name) [before](depart_time.time_relative) [noon](depart_time.time)
+- what are the flights from [dallas](fromloc.city_name) to [philadelphia](toloc.city_name)
+- what 's the [earliest](flight_mod) flight from [atlanta](fromloc.city_name) to [boston](toloc.city_name)
+- flights from [denver](fromloc.city_name) to [chicago](toloc.city_name) on [sunday](depart_date.day_name) on [continental](airline_name)
+- i need to fly from [nashville](fromloc.city_name) to [tacoma](toloc.city_name) [first](flight_mod) thing in the [morning](depart_time.period_of_day) what is there
+- i need a flight from [philadelphia](fromloc.city_name) to [denver](toloc.city_name)
+- okay i 'd like a flight on [us air](airline_name) from [indianapolis](fromloc.city_name) to [san diego](toloc.city_name) in the [afternoon](depart_time.period_of_day) what 's available
+- what are the flights from [denver](fromloc.city_name) to [san francisco](toloc.city_name) on [tuesday](depart_date.day_name) [october](depart_date.month_name) [fifteenth](depart_date.day_number)
+- what is the [last](flight_mod) flight from [dallas](fromloc.city_name) to [boston](toloc.city_name)
+- flights from [baltimore](fromloc.city_name) [denver](fromloc.city_name) and [pittsburgh](fromloc.city_name) to [philadelphia](toloc.city_name) where the [round trip](round_trip) fare for each is [less](cost_relative) than [1000 dollars](fare_amount)
+- is there [one stop](flight_stop) with the [us air](airline_name) [boston](toloc.city_name) leaving at [705](arrive_time.time) to [atlanta](toloc.city_name)
+- i 'm interested in flights from [denver](fromloc.city_name) to [pittsburgh](toloc.city_name)
+- what is the [cheapest](cost_relative) flight from [long beach](fromloc.city_name) to [memphis](toloc.city_name)
+- i need a flight from [philadelphia](fromloc.city_name) to [denver](toloc.city_name) on [sunday](depart_date.day_name)
+- i would like a flight as [early](flight_mod) as possible in the day leaving from [boston](fromloc.city_name) and to [denver](toloc.city_name)
+- show me the flights from [baltimore](fromloc.city_name) to [seattle](toloc.city_name)
+- list the takeoffs and landings at [general mitchell international](airport_name)
+- flights between [boston](fromloc.city_name) and [philadelphia](toloc.city_name) that arrive [after](arrive_time.time_relative) [2 o'clock](arrive_time.time) and [before](arrive_time.time_relative) [5 o'clock](arrive_time.time) on [tuesday](arrive_date.day_name)
+- show me the flights from [st. petersburg](fromloc.city_name) to [toronto](toloc.city_name) that arrive [early](arrive_time.period_mod) in the [morning](arrive_time.period_of_day)
+- please list the flights from [baltimore](fromloc.city_name) to [san francisco](toloc.city_name) on [fridays](depart_date.day_name)
+- flight from [nashville](fromloc.city_name) back to [milwaukee](toloc.city_name)
+- please list [am](depart_time.period_of_day) flights leaving [san francisco](fromloc.city_name) [boston](fromloc.city_name)
+- all right what do you have from [oakland](fromloc.city_name) to [philadelphia](toloc.city_name) on [wednesday](depart_date.day_name)
+- what flights go from [chicago](fromloc.city_name) to [seattle](toloc.city_name) on [continental airlines](airline_name) on [saturday](depart_date.day_name)
+- show me flights from [baltimore](fromloc.city_name) to [philadelphia](toloc.city_name)
+- show me flights which leave from [boston](fromloc.city_name) on [july](depart_date.month_name) [twenty second](depart_date.day_number) arriving in [pittsburgh](toloc.city_name)
+- i would like a flight from [philadelphia](fromloc.city_name) to [dallas](toloc.city_name) on [american airlines](airline_name)
+- i want to fly [united airlines](airline_name) from [boston](fromloc.city_name) to [denver](toloc.city_name)
+- show me flights from [pittsburgh](fromloc.city_name) to [san francisco](toloc.city_name) on [monday](depart_date.day_name)
+- i 'm interested in flying from [atlanta](fromloc.city_name) to [boston](toloc.city_name) i 'd like to fly during [breakfast](meal_description)
+- i need to catch an [evening](depart_time.period_of_day) flight from [boston](fromloc.city_name) to [philadelphia](toloc.city_name) on [august](depart_date.month_name) [first](depart_date.day_number)
+- is the [american](airline_name) flight [813](flight_number) from [boston](fromloc.city_name) to [oakland](toloc.city_name) a flight that goes straight through from [boston](fromloc.city_name) to [oakland](toloc.city_name) [without stopping](flight_stop) at another city
+- please list the flights from [chicago](fromloc.city_name) to [kansas city](toloc.city_name)
+- i want to travel from [kansas city](fromloc.city_name) to [st. paul](toloc.city_name) and be there [by](depart_time.time_relative) [dinnertime](depart_time.period_of_day)
+- list all flights arriving in [pittsburgh](toloc.city_name) [monday](arrive_date.day_name) [evening](arrive_time.period_of_day) from [san francisco](fromloc.city_name) that [first class](class_type)
+- what flights from [houston](fromloc.city_name) to [milwaukee](toloc.city_name) on [friday](depart_date.day_name) on [american airlines](airline_name)
+- i would like to book a flight going from [tampa](fromloc.city_name) to [seattle](toloc.city_name) on [may](depart_date.month_name) [twenty sixth](depart_date.day_number) i would like to stop in [milwaukee](stoploc.city_name) on the way
+- please list [nonstop](flight_stop) [twa](airline_code) flights from [las vegas](fromloc.city_name) to [new york](toloc.city_name)
+- show me the flights going from [pittsburgh](fromloc.city_name) to [san francisco](toloc.city_name) on [monday](depart_date.day_name)
+- show me all flights arriving to [denver](toloc.city_name) from [oakland](fromloc.city_name)
+- i 'd like to travel from [boston](fromloc.city_name) to [baltimore](toloc.city_name) on [us air](airline_name) [269](flight_number) please tell me the [times](flight_time)
+- i 'm planning a trip to [pittsburgh](toloc.city_name) and i live in [denver](fromloc.city_name) can you help me
+- show me the flights from [san francisco](fromloc.city_name) to [newark](toloc.city_name) that leave [after](depart_time.time_relative) [11 pm](depart_time.time)
+- list flights leaving [dallas](fromloc.city_name) on [saturday](depart_date.day_name) and arriving in [san francisco](toloc.city_name) [before](arrive_time.time_relative) [4 pm](arrive_time.time)
+- show me the flights from [atlanta](fromloc.city_name) to [philadelphia](toloc.city_name)
+- show me the flights from [indianapolis](fromloc.city_name) to [montreal](toloc.city_name)
+- what flights are there on [sunday](depart_date.day_name) from [seattle](fromloc.city_name) to [chicago](toloc.city_name)
+- display all flights from [st. petersburg](fromloc.city_name) and [charlotte](toloc.city_name) flights should leave [after](depart_time.time_relative) [noon](depart_time.time) arrive [after](arrive_time.time_relative) [5 pm](arrive_time.time) [nonstop](flight_stop) flight
+- what [northwest](airline_name) flights stop in [denver](stoploc.city_name)
+- please give me a flight from [pittsburgh](fromloc.city_name) to [san francisco](toloc.city_name) [monday](depart_date.day_name)
+- show me flights from [pittsburgh](fromloc.city_name) to [philadelphia](toloc.city_name)
+- show me flights with [first class](class_type) reservations from [san francisco](fromloc.city_name) to [pittsburgh](toloc.city_name) for [monday](depart_date.day_name)
+- [delta](airline_name)flights to [dallas](toloc.city_name) please
+- please list all flights on [northwest](airline_name) and [united airlines](airline_name) that go to [denver](toloc.city_name)
+- information on [american airlines](airline_name) flight from [washington](fromloc.city_name) to [philadelphia](toloc.city_name)
+- show me all the information about the flight from [baltimore](fromloc.city_name) to [dallas](toloc.city_name) which is listed [dl](airline_code) [1055](flight_number) [dl](airline_code) [405](flight_number)
+- which [nonstop](flight_stop) flight from [atlanta](fromloc.city_name) to [oakland](toloc.city_name) leaves in the [afternoon](arrive_time.period_of_day) and arrives at [5 pm](arrive_time.time)
+- i need a flight from [philadelphia](fromloc.city_name) to [boston](toloc.city_name)
+- is there a flight between [san francisco](fromloc.city_name) and [boston](toloc.city_name) with a stopover in [dallas fort worth](stoploc.city_name)
+- show me all flights from [baltimore](fromloc.city_name) to [san francisco](toloc.city_name)
+- i would like a flight from [philadelphia](fromloc.city_name) to [dallas](toloc.city_name)
+- show me all the flights on [northwest airlines](airline_name) from [new york](fromloc.city_name) to [milwaukee](stoploc.city_name) to [los angeles](toloc.city_name)
+- what is the [earliest](flight_mod) flight that has [no stops](flight_stop) from [washington](fromloc.city_name) to [san francisco](toloc.city_name) on [friday](depart_date.day_name)
+- fly from [denver](fromloc.city_name) to [philadelphia](toloc.city_name) on [continental](airline_name)
+- show me all [midwest](airline_name) express flights from [detroit](fromloc.city_name) to [chicago](toloc.city_name)
+- list flights from [atlanta](fromloc.city_name) to [boston](toloc.city_name) leaving between [6 pm](depart_time.start_time) and [10 pm](depart_time.end_time) on [august](depart_date.month_name) [eighth](depart_date.day_number)
+- information on [afternoon](depart_time.period_of_day) flights from [philadelphia](fromloc.city_name) to [denver](toloc.city_name)
+- great now what i want to find out is on [april](depart_date.month_name) [twentieth](depart_date.day_number) from [washington](fromloc.city_name) to [denver](toloc.city_name) do you have a flight [least expensive](cost_relative) fare [around](depart_time.time_relative) [5 o'clock](depart_time.time) in the [morning](depart_time.period_of_day)
+- i need a flight from [denver](fromloc.city_name) to [philadelphia](toloc.city_name) on [saturday](depart_date.day_name)
+- show me the flights from [westchester county](fromloc.city_name) to [cincinnati](toloc.city_name)
+- what flights are available from [denver](fromloc.city_name) to [philadelphia](toloc.city_name) on [monday](depart_date.day_name)
+- what [delta](airline_name) flights fly from [washington](fromloc.city_name) to [dallas](toloc.city_name) in the [morning](depart_time.period_of_day)
+- i 'd like to make a trip between [atlanta](fromloc.city_name) and [boston](toloc.city_name) i wish to know the [cheapest](cost_relative) fare
+- give me the [first](flight_mod) flight from [boston](fromloc.city_name) to [atlanta](toloc.city_name)
+- does [american airlines](airline_name) fly from [boston](fromloc.city_name) to [san francisco](toloc.city_name)
+- what flights go from [dallas](fromloc.city_name) to [tampa](toloc.city_name)
+- thank you i also need to travel [next](depart_date.date_relative) [wednesday](depart_date.day_name) [evening](depart_time.period_of_day) from [dallas](fromloc.city_name) to [san francisco](toloc.city_name)
+- okay and on [may](depart_date.month_name) [four](depart_date.day_number) i would like to go from [atlanta](fromloc.city_name) to [denver](toloc.city_name) leaving [early](depart_time.period_mod) in the [morning](depart_time.period_of_day) [around](depart_time.time_relative) [8](depart_time.time)
+- list the flights from [san francisco](fromloc.city_name) to [philadelphia](toloc.city_name) on [american airlines](airline_name)
+- do you have an [819](depart_time.time) flight from [denver](fromloc.city_name) to [san francisco](toloc.city_name)
+- what is the [earliest](flight_mod) [united airlines](airline_name) flight flying from [denver](fromloc.city_name) to [baltimore](toloc.city_name) and arriving on [july](arrive_date.month_name) [fourth](arrive_date.day_number)
+- i would like to book an [early](depart_time.period_of_day) [morning](depart_time.period_of_day) flight from [tampa](fromloc.city_name) to [charlotte](toloc.city_name) on [april](depart_date.month_name) [sixth](depart_date.day_number)
+- [morning](depart_time.period_of_day)flight from [oakland](fromloc.city_name) to [dallas](toloc.city_name)
+- show me flights from [new york](fromloc.city_name) to [miami](toloc.city_name)
+- list the flights and [departure times](flight_time) for flights leaving [dallas fort worth](fromloc.city_name) for [boston](toloc.city_name) [after](depart_time.time_relative) [6 pm](depart_time.time)
+- list flights from [pittsburgh](fromloc.city_name) to [los angeles](toloc.city_name) which leave on [thursday](depart_date.day_name) [after](depart_time.time_relative) [5 pm](depart_time.time)
+- i 'd like a flight from [baltimore](fromloc.city_name) to [boston](toloc.city_name) as [early](depart_time.period_mod) in the [morning](depart_time.period_of_day) as i can
+- show me all flights from [oakland](fromloc.city_name) to [philadelphia](toloc.city_name) on [saturday](depart_date.day_name) which serve a [meal](meal) and arrive in [philadelphia](toloc.city_name) [before](arrive_time.time_relative) [noon](arrive_time.time)
+- i would like to book a flight from [chicago](fromloc.city_name) to [seattle](toloc.city_name) on [june](depart_date.month_name) [first](depart_date.day_number)
+- are there any flights from [pittsburgh](fromloc.city_name) to [boston](toloc.city_name) that leave between [noon](depart_time.start_time) and [5 o'clock](depart_time.end_time)
+- [daily](flight_days)flights from [newark](fromloc.city_name) to [cleveland](toloc.city_name) departing [5 o'clock pm](depart_time.time)
+- show me the flights from [boston](fromloc.city_name) to [oakland](toloc.city_name)
+- show me the flights from [st. petersburg](fromloc.city_name) to [toronto](toloc.city_name) that leave [monday](depart_date.day_name)
+- please list all flights between [boston](fromloc.city_name) and [atlanta](toloc.city_name)
+- is there a flight on [delta airlines](airline_name) from [boston](fromloc.city_name) to [denver](toloc.city_name)
+- give me all [nonstops](flight_stop) from [new york](fromloc.city_name) to [vegas](toloc.city_name) that arrive on a [sunday](arrive_date.day_name)
+- what flights leave [boston](fromloc.city_name) and arrive in [philadelphia](toloc.city_name) [before](arrive_time.time_relative) [7 am](arrive_time.time)
+- i 'd like a flight from [boston](fromloc.city_name) to [san francisco](toloc.city_name) leaving in the [afternoon](depart_time.period_of_day) any time please
+- flight [417](flight_number) from [cincinnati](fromloc.city_name) to [dallas](toloc.city_name)
+- list flights from [houston](fromloc.city_name) to [memphis](toloc.city_name) [june](depart_date.month_name) [twenty ninth](depart_date.day_number)
+- list flights from [dallas](fromloc.city_name) to [san francisco](toloc.city_name)
+- please repeat the flight departures for [monday](depart_date.day_name) [august](depart_date.month_name) [nineteenth](depart_date.day_number) from [denver](fromloc.city_name) to [pittsburgh](toloc.city_name)
+- where does [continental](airline_name) fly to from [chicago](fromloc.city_name)
+- from [kansas city](fromloc.city_name) to [salt lake city](toloc.city_name) on [delta](airline_name) arrive [around](arrive_time.time_relative) [8 pm](arrive_time.time) [tomorrow](arrive_date.today_relative)
+- is there a flight on [twa](airline_code) from [baltimore](fromloc.city_name) to [san francisco](toloc.city_name) with a stop in [denver](stoploc.city_name)
+- [phoenix](fromloc.city_name)to [newark](toloc.city_name) [wednesday](depart_date.day_name)
+- [newark](fromloc.city_name)to [cleveland](toloc.city_name)
+- what flights leave from [phoenix](fromloc.city_name)
+- flight information from [pittsburgh](fromloc.city_name) to [denver](toloc.city_name)
+- show me flights from [denver](fromloc.city_name) to [philadelphia](toloc.city_name)
+- okay and can you tell me for flights departing from [dallas](fromloc.city_name) to [philadelphia](toloc.city_name) the [latest](flight_mod) flight you would have departing from [dallas](fromloc.city_name) to [philadelphia](toloc.city_name)
+- show me the flights from [boston](fromloc.city_name) to [denver](toloc.city_name) on [august](depart_date.month_name) [second](depart_date.day_number)
+- show me all the flights on [united](airline_name) leaving from [boston](fromloc.city_name)
+- could you please tell me the [first](flight_mod) flight leaving [baltimore](fromloc.city_name) to [san francisco](toloc.city_name) on a [747](aircraft_code) on [august](depart_date.month_name) [twenty seventh](depart_date.day_number)
+- please give me flights from [atlanta](fromloc.city_name) to [boston](toloc.city_name) on [wednesday](depart_date.day_name) [afternoon](depart_time.period_of_day) and [thursday](depart_date.day_name) [morning](depart_time.period_of_day)
+- show all flights leaving [monday](depart_date.day_name) [morning](depart_time.period_of_day) from [boston](fromloc.city_name) to [pittsburgh](toloc.city_name)
+- show me the [delta](airline_name) flights from [san francisco](fromloc.city_name) to [boston](toloc.city_name)
+- show me the flights from [baltimore](fromloc.city_name) to [oakland](toloc.city_name)
+- very well i 'm working on scenario three i 'm interested in a flight on a [727](aircraft_code) from [washington](fromloc.city_name) [dc](fromloc.state_code) to [atlanta](toloc.city_name) [georgia](toloc.state_name)
+- flight from [dc](fromloc.state_code) to [salt lake city](toloc.city_name)
+- i 'd like to make a trip from [washington](fromloc.city_name) to [san francisco](toloc.city_name)
+- i would like to see the flights from [denver](fromloc.city_name) to [philadelphia](toloc.city_name)
+- show me the [cheapest](cost_relative) [one way](round_trip) flights from [pittsburgh](fromloc.city_name) to [dallas](toloc.city_name) leaving [pittsburgh](fromloc.city_name) between [noon](depart_time.start_time) and [2 pm](depart_time.end_time)
+- show all flights with [first class](class_type) from [baltimore](fromloc.city_name) to [dallas](toloc.city_name)
+- i 'd like the [earliest](flight_mod) flight from [dallas](fromloc.city_name) to [boston](toloc.city_name)
+- what flights can i take between [boston](fromloc.city_name) and [atlanta](toloc.city_name) so that when i leave [boston](fromloc.city_name) i will have the maximum amount of time on the ground in [atlanta](toloc.city_name) and still return in the same [day](return_date.date_relative)
+- show me the flights from [philadelphia](fromloc.city_name) to [atlanta](toloc.city_name) [georgia](toloc.state_name)
+- we 're going from [denver](fromloc.city_name) to [san francisco](toloc.city_name)
+- show me all the flights from [milwaukee](fromloc.city_name) to [orlando](toloc.city_name) that leave [after](depart_time.time_relative) [noon](depart_time.time) on [wednesday](depart_date.day_name) and [before](depart_time.time_relative) [noon](depart_time.time) on [thursday](depart_date.day_name)
+- i 'd like to fly from [philadelphia](fromloc.city_name) to [san francisco](toloc.city_name) with a stopover in [dallas](stoploc.city_name)
+- what are your flights from [dallas](fromloc.city_name) to [baltimore](toloc.city_name)
+- show me [round trips](round_trip) from [houston](fromloc.city_name) to [las vegas](toloc.city_name) [nonstop](flight_stop)
+- please list all flights from [san francisco](fromloc.city_name) to [pittsburgh](toloc.city_name) on [sunday](depart_date.day_name)
+- i want a flight from [philadelphia](fromloc.city_name) to [dallas](toloc.city_name) with a stop in [atlanta](stoploc.city_name)
+- do you have any flights from [denver](fromloc.city_name) to [baltimore](toloc.city_name) via [dallas](stoploc.city_name)
+- does [continental](airline_name) fly from [boston](fromloc.city_name) to [san francisco](toloc.city_name) with a stop in [denver](stoploc.city_name)
+- is there a [delta](airline_name) flight from [denver](fromloc.city_name) to [san francisco](toloc.city_name)
+
+
+## intent:flight and airfare
+- give me the flights and fares on [december](depart_date.month_name) [twenty seventh](depart_date.day_number) from [indianapolis](fromloc.city_name) to [orlando](toloc.city_name)
+- all flights and fares from [atlanta](fromloc.city_name) to [dallas](toloc.city_name) [round trip](round_trip) [after](depart_time.time_relative) [12 pm](depart_time.time) [less](cost_relative) than [1100 dollars](fare_amount)
+- [first](flight_mod)flights and fares from [pittsburgh](fromloc.city_name) to [atlanta](toloc.city_name) on a [thursday](depart_date.day_name)
+- all flights and fares from [atlanta](fromloc.city_name) to [dallas](toloc.city_name) [round trip](round_trip) [after](depart_time.time_relative) [12 pm](depart_time.time) [less](cost_relative) than [1100 dollars](fare_amount)
+- all flights and fares from [pittsburgh](fromloc.city_name) to [dallas](toloc.city_name) [round trip](round_trip) [after](depart_time.time_relative) [12 pm](depart_time.time) [less](cost_relative) than [1100 dollars](fare_amount)
+- give me the flights and fares on [december](depart_date.month_name) [twenty seventh](depart_date.day_number) from [indianapolis](fromloc.city_name) to [orlando](toloc.city_name)
+- show all flights and fares from [pittsburgh](fromloc.city_name) to [san francisco](toloc.city_name)
+- show me all flights and fares from [dallas](fromloc.city_name) to [san francisco](toloc.city_name)
+- all flights and fares from [atlanta](fromloc.city_name) to [dallas](toloc.city_name) [round trip](round_trip) [after](depart_time.time_relative) [12 pm](depart_time.time) [less](cost_relative) than [1100 dollars](fare_amount)
+- again i will repeat i want to make a [one way](round_trip) flight from [boston](fromloc.city_name) to [atlanta](toloc.city_name) will you tell me how much the fares are i would like the [cheapest](cost_relative) fare
+- show all flights and fares from [denver](fromloc.city_name) to [san francisco](toloc.city_name)
+- all flights and fares from [pittsburgh](fromloc.city_name) to [dallas](toloc.city_name) [round trip](round_trip) [after](depart_time.time_relative) [12 pm](depart_time.time) [less](cost_relative) than [1100 dollars](fare_amount)
+- all flights and fares from [denver](fromloc.city_name) to [pittsburgh](toloc.city_name) on [us air](airline_name) number [1039](flight_number) on a [thursday](depart_date.day_name)
+- flights and fares from [denver](fromloc.city_name) to [oakland](toloc.city_name)
+- what are the flights and fares from [atlanta](fromloc.city_name) to [philadelphia](toloc.city_name)
+- show me all flights and fares from [denver](fromloc.city_name) to [san francisco](toloc.city_name)
+- all flights and fares from [dallas](fromloc.city_name)
+- what are the flights and fares from [boston](fromloc.city_name) to [philadelphia](toloc.city_name)
+- please list me the flights and their cost of all airlines flying from [denver](fromloc.city_name) to [baltimore](toloc.city_name)
+- please give me a list of all the flights between [dallas](fromloc.city_name) and [baltimore](toloc.city_name) and their cost
+- give me the flights and fares on [december](depart_date.month_name) [twenty seventh](depart_date.day_number) from [orlando](fromloc.city_name) to [indianapolis](toloc.city_name) airfare
+
+
+## intent:flight_time
+- what is the [arrival time](flight_time) in [san francisco](fromloc.city_name) for the [755 am](depart_time.time) flight leaving [washington](fromloc.city_name)
+- what are the [times](flight_time) that you have planes leaving from [san francisco](fromloc.city_name) going to [pittsburgh](toloc.city_name) on [july](depart_date.month_name) [seventh](depart_date.day_number)
+- on [united airlines](airline_name) give me the [flight times](flight_time) from [boston](fromloc.city_name) to [dallas](toloc.city_name)
+- what are the [schedule](flight_time) of flights from [boston](fromloc.city_name) to [san francisco](toloc.city_name) for [august](depart_date.month_name) [first](depart_date.day_number)
+- what is the [flight schedule](flight_time) of the [f28](aircraft_code) from [pittsburgh](fromloc.city_name) to [baltimore](toloc.city_name)
+- show me [times](flight_time) for flights from [san francisco](fromloc.city_name) to [atlanta](toloc.city_name)
+- i would like the [time](flight_time) of all flights from [san francisco](fromloc.city_name) to [pittsburgh](toloc.city_name) on [sunday](depart_date.day_name)
+- could you give me the [schedule](flight_time) of flights for [american](airline_name) and [delta](airline_name) to [dfw](toloc.airport_code) on [august](depart_date.month_name) [fifteenth](depart_date.day_number)
+- please list the [flight times](flight_time) from [pittsburgh](fromloc.city_name) to [newark](toloc.city_name)
+- please list the [flight times](flight_time) from [boston](fromloc.city_name) to [pittsburgh](toloc.city_name)
+- please list the [flight schedule](flight_time) from [baltimore](fromloc.city_name) to [san francisco](toloc.city_name) on [friday](depart_date.day_name) [nights](depart_time.period_of_day)
+- what [times](flight_time) on [wednesday](depart_date.day_name) could i take a plane from [denver](fromloc.city_name) to [oakland](toloc.city_name)
+- please tell me the [times](flight_time) of the flights between [boston](fromloc.city_name) and [baltimore](toloc.city_name)
+- show me [times](flight_time) for [coach](class_type) flights between [boston](fromloc.city_name) and [baltimore](toloc.city_name) on [wednesday](depart_date.day_name)
+- show me the [schedule](flight_time) for airlines leaving [pittsburgh](fromloc.city_name) going to [san francisco](toloc.city_name) for [next](depart_date.date_relative) [monday](depart_date.day_name)
+- what is the [departure time](flight_time) of the [latest](flight_mod) flight of [united airlines](airline_name) from [denver](fromloc.city_name) to [boston](toloc.city_name)
+- please list the [flight times](flight_time) from [pittsburgh](fromloc.city_name) to [newark](toloc.city_name)
+- what [times](flight_time) does [continental](airline_name) depart from [boston](fromloc.city_name) to [san francisco](toloc.city_name)
+- what [time](flight_time) does flight [aa](airline_code) [459](flight_number) depart
+- please list the [flight times](flight_time) from [newark](fromloc.city_name) to [boston](toloc.city_name)
+- what is the minimum connection time for [houston intercontinental](airport_name)
+- i would like the [time](flight_time) your [earliest](flight_mod) flight from [washington](fromloc.city_name) to [philadelphia](toloc.city_name)
+- what is the [schedule](flight_time) of flights from [boston](fromloc.city_name) to [denver](toloc.city_name) [next](depart_date.date_relative) [monday](depart_date.day_name)
+- what [time](flight_time) does the flight leave [denver](fromloc.city_name) going to [san francisco](toloc.city_name) on [continental airlines](airline_name)
+- what is the [schedule for flights](flight_time) between [pittsburgh](fromloc.city_name) and [boston](toloc.city_name) on the [evening](depart_time.period_of_day) of [july](depart_date.month_name) [ninth](depart_date.day_number)
+- what is [delta 's](airline_name) [schedule](flight_time) of [morning](depart_time.period_of_day) flights to [atlanta](toloc.city_name)
+- what is [american 's](airline_name) [schedule](flight_time) of [morning](depart_time.period_of_day) flights to [atlanta](toloc.city_name)
+- what is the [schedule](flight_time) of ground transportation from [washington airport](fromloc.airport_name) into downtown
+- what [time](flight_time) does [twa](airline_code) depart from [boston](fromloc.city_name) to go to [san francisco](toloc.city_name)
+- what [time](flight_time) does the [earliest](flight_mod) flight which goes from [atlanta](fromloc.city_name) to [denver](toloc.city_name) leave
+- i would like the [evening](depart_time.period_of_day) [schedule](flight_time) of flights from [san francisco](fromloc.city_name) to [washington](toloc.city_name)
+- please give me the [flight times](flight_time) i would like to fly from [boston](fromloc.city_name) to [baltimore](toloc.city_name) in the [morning](depart_time.period_of_day) [before](depart_time.time_relative) [8](depart_time.time)
+- what [times](flight_time) does the [late afternoon](depart_time.period_of_day) flight leave from [washington](fromloc.city_name) for [denver](toloc.city_name)
+- what [time](flight_time) are flights from [denver](fromloc.city_name) to [san francisco](toloc.city_name) on [continental airlines](airline_name)
+- list [departure times](flight_time) from [denver](fromloc.city_name) to [philadelphia](toloc.city_name) which are [later](depart_time.time_relative) than [10 o'clock](depart_time.time) and [earlier](depart_time.time_relative) than [2 pm](depart_time.time)
+- i would like the [time](flight_time) of your [earliest](flight_mod) flight in the [morning](depart_time.period_of_day) from [philadelphia](fromloc.city_name) to [washington](toloc.city_name) on [american airlines](airline_name)
+- please list the [flight times](flight_time) from [newark](fromloc.city_name) to [boston](toloc.city_name)
+- i want to know the [time](flight_time) of the [latest](flight_mod) flight i can take from [washington](fromloc.city_name) to [san francisco](toloc.city_name) where i can get a [dinner meal](meal_description)
+- what [time](flight_time) is the [last](flight_mod) flight from [washington](fromloc.city_name) to [san francisco](toloc.city_name)
+- all right give me the [flight times](flight_time) in the [morning](depart_time.period_of_day) on [september](depart_date.month_name) [twentieth](depart_date.day_number) from [pittsburgh](fromloc.city_name) to [san francisco](toloc.city_name)
+- can you tell me the [time](flight_time) a flight would leave from [atlanta](fromloc.city_name) to [boston](toloc.city_name) in the [afternoon](depart_time.period_of_day)
+
+
+## intent:flight_no
+- flight numbers from [columbus](fromloc.city_name) to [minneapolis](toloc.city_name) [tomorrow](depart_date.today_relative)
+- i 'm trying to find the flight number from a flight from [orlando](fromloc.city_name) to [cleveland](toloc.city_name) on [us air](airline_name) and it arrives [around](arrive_time.time_relative) [10 pm](arrive_time.time)
+- flight numbers from [minneapolis](fromloc.city_name) to [long beach](toloc.city_name) on [june](depart_date.month_name) [twenty six](depart_date.day_number)
+- please show me the return flight number from [toronto](fromloc.city_name) to [st. petersburg](toloc.city_name)
+- what is the flight number for the [continental](airline_name) flight which leaves [denver](fromloc.city_name) at [1220 pm](depart_time.time) and goes to [san francisco](toloc.city_name)
+- what is the number of [first class](class_type) flights on [american airlines](airline_name)
+- may i have a listing of flight numbers from [columbus](fromloc.city_name) [ohio](fromloc.state_name) to [minneapolis](toloc.city_name) [minnesota](toloc.state_name) on [monday](depart_date.day_name)
+- list the number of flights arriving in [dallas fort worth](toloc.city_name) from [boston](fromloc.city_name) [before](arrive_time.time_relative) [noon](arrive_time.time)
+- i would like the flight number and the [time](flight_time) for the [cheapest](cost_relative) fare that is the [least expensive](cost_relative) [first class](class_type) fare from [san francisco](fromloc.city_name) to [pittsburgh](toloc.city_name) leaving [after](depart_time.time_relative) [8 pm](depart_time.time) [monday](depart_date.day_name) [night](depart_time.period_of_day)
+- which is the flight number for the [us air](airline_name) flight from [philadelphia](fromloc.city_name) to [boston](toloc.city_name) is it [279](flight_number) [or](or) is it [137338](flight_number)
+- what is the flight number of the [earliest](flight_mod) flight between [boston](fromloc.city_name) and [washington](toloc.city_name) [dc](toloc.state_code)
+- what are the flight numbers of the flights which go from [san francisco](fromloc.city_name) to [washington](toloc.city_name) via [indianapolis](stoploc.city_name)
+
+
+## intent:ground_fare
+- how much does the [limousine](transport_type) service cost within [pittsburgh](city_name)
+- how much does it cost to rent a [car](transport_type) in [tacoma](city_name)
+- what are the costs of [car rental](transport_type) in [dallas](city_name)
+- how much does it cost to get downtown from the [atlanta airport](fromloc.airport_name) by [limousine](transport_type)
+- what are the [rental car](transport_type) rates in [san francisco](city_name)
+- what is the cost of the [air taxi operation](transport_type) at [philadelphia international airport](airport_name)
+- how much is a [limousine](transport_type) between [dallas fort worth international](fromloc.airport_name) airport and [dallas](toloc.city_name)
+- what price is a [limousine](transport_type) service in [boston](city_name)
+- how much would [car rental](transport_type) cost in [atlanta](city_name)
+- can you list costs of [denver](city_name) [rental cars](transport_type)
+- how much is the ground transportation between [atlanta](fromloc.city_name) and downtown
+- what are the [rental car](transport_type) rates in [dallas](city_name)
+- what price is a [limousine](transport_type) service to [new york 's](fromloc.city_name) [la guardia](fromloc.airport_name)
+- how expensive is the [san francisco](city_name) [limousine](transport_type) service
+- what is the cost of [limousine](transport_type) service in [philadelphia](city_name)
+- what is the cost of [limousine](transport_type) service at [logan airport](airport_name)
+- what are the [rental car](transport_type) rates in [dallas](city_name)
+- please list the prices for a [rental car](transport_type) in [pittsburgh](city_name)
+
+
+## intent:ground_service
+- what kind of ground transportation is available in [denver](city_name)
+- show me the ground transportation in [denver](city_name)
+- [atlanta](city_name)ground transportation
+- show me information on ground transportation for [dallas](city_name)
+- what is the ground transportation from [philadelphia airport](fromloc.airport_name) to the city proper
+- ground transportation in [san jose](city_name)
+- show me a list of ground transportation at [denver](city_name)
+- what is the transportation [time](time) from the airport to [boston](toloc.city_name)
+- what kinds of ground transportation is available in [dallas fort worth](city_name)
+- is there ground transportation available in [denver](city_name)
+- what kind of ground transportation can you offer me in [seattle](city_name)
+- show me the [car rentals](transport_type) in [baltimore](city_name)
+- how much time does it take to go between the airport and downtown by ground transportation in [dallas](city_name)
+- ground transportation [minneapolis](city_name)
+- is there ground transportation in [boston](city_name) from the airport
+- is there ground transportation from the airport to downtown [phoenix](toloc.city_name)
+- does the [phoenix airport](airport_name) have ground transportation to and from downtown
+- ground transportation [oakland](city_name)
+- is there ground transportation from the [milwaukee airport](airport_name) to the downtown area
+- show me ground transportation information for [san francisco](city_name)
+- show ground transportation for [pittsburgh](city_name)
+- is there [limousine](transport_type) service available at [baltimore airport](airport_name)
+- what are the ground transportation services in [philadelphia](city_name)
+- is there ground transportation from [atlanta airport](fromloc.airport_name) to downtown [atlanta](toloc.city_name)
+- are there any [limousines](transport_type) [or](or) [taxi](transport_type) services available at the [boston airport](airport_name)
+- can i see ground transportation from [long beach](fromloc.city_name) airport to downtown
+- can you help me with ground transportation information i need to get from the airport in [philadelphia](fromloc.city_name) to downtown [philadelphia](toloc.city_name)
+- what ground transportation is available in [boston](city_name)
+- what ground transportation is available in [denver](city_name)
+- show me about the ground transportation in [boston](city_name)
+- in [boston](city_name) is there ground transportation between airport and downtown
+- i would like information on ground transportation [city of boston](city_name) between airport and downtown
+- list ground transportation options at [phoenix](city_name)
+- i need information for ground transportation [denver](city_name) [colorado](state_name)
+- tell me about ground transportation at [toronto](city_name)
+- what is the ground transportation available in [denver](city_name)
+- what is the ground transport in [denver](city_name)
+- show me ground transportation in [washington](city_name) [dc](state_code)
+- ground transport [phoenix](city_name)
+- what type of ground transportation is available in [washington](city_name)
+- how do i get to [philadelphia](toloc.city_name) downtown from the airport
+- what kind of ground transportation is there in [philadelphia](city_name)
+- ground transportation in [denver](city_name)
+- [train](transport_type)to [newark](city_name)
+- i would like to find out the ground travel available in [atlanta](city_name)
+- show me the ground transportation schedule in [san francisco](city_name) on [thursday](day_name) [evening](period_of_day)
+- what ground transport is available in [baltimore](city_name)
+- could you tell me if there is ground transportation between the [boston airport](fromloc.airport_name) and [boston](toloc.city_name) downtown
+- what [limousine](transport_type) service in [los angeles](city_name)
+- in [dallas fort worth](city_name) i would like information on ground transportation
+- can i get a [rental car](transport_type) in [dallas](city_name)
+- what ground transportation is there from the airport in [atlanta](fromloc.city_name) to downtown
+- what ground transportation is available at the [baltimore airport](airport_name)
+- [boston](city_name)ground transportation
+- is there ground transportation between airport and downtown in [boston](toloc.city_name)
+- ground transportation [washington](city_name)
+- what ground transportation is available from [pittsburgh](fromloc.city_name) to downtown
+- is there ground transportation in [baltimore](city_name)
+- what is the ground transportation in [san diego](city_name)
+- what ground transportation is available at [boston](city_name)
+- is there [limo](transport_type) service at [pittsburgh airport](airport_name)
+- what types of ground transportation are available in [philadelphia](city_name)
+- what sort of ground transportation is there in [washington](city_name) [dc](state_code)
+- what ground transportation is available in [dallas](city_name)
+- ground transportation in [denver](city_name)
+- show me ground transportation in [westchester county](city_name)
+- i 'd like to know the ground travel available in [fort worth](city_name)
+- show me the ground transportation in the [salt lake city airport](airport_name)
+- i would like to know the types of ground transportation from the airport to [las vegas](city_name)
+- ground transportation from airport in [boston](fromloc.city_name) to downtown [boston](toloc.city_name)
+- i would like information on ground transportation in [atlanta](city_name) from the airport to the city in the [morning](period_of_day) [around](time_relative) [9 am](time)
+- show me ground transportation for [dallas](city_name)
+- ground transportation [atl](airport_code) to [atlanta](toloc.city_name)
+- what ground transportation is there in [dallas](city_name)
+- please give ground transportation at [denver airport](airport_name)
+- what is ground transportation between the [san francisco airport](fromloc.airport_name) and the city
+- show me all ground transportation in [washington](city_name) [dc](state_code)
+- [rental car](transport_type)in [baltimore](city_name)
+- can i rent a [car](transport_type) in [san jose](city_name) too
+- tell me about ground transportation between [orlando international](fromloc.airport_name) and [orlando](toloc.city_name)
+- what type of ground transportation is available at [logan airport](airport_name)
+- ground transportation for [st paul](city_name)
+- i will be staying downtown in [atlanta](city_name) for two hours could you tell me what the ground transportation is available
+- is there ground transportation from the airport in [denver](fromloc.city_name) to downtown
+- show me ground transportation in [boston](city_name)
+- show me ground transportation in [san francisco](city_name)
+- is there ground transportation in [dallas](city_name) from the [dallas airport](fromloc.airport_name) to downtown [dallas](toloc.city_name)
+- what ground transportation is available in [dallas](city_name)
+- could you tell me about ground transportation arrangements from the [dallas airport](fromloc.airport_name) to downtown [dallas](toloc.city_name)
+- ground transportation [atlanta](city_name)
+- what 's the ground transportation from [oakland](fromloc.city_name) to [san francisco](toloc.city_name)
+- what [car rentals](transport_type) are available [next](depart_date.date_relative) [sunday](depart_date.day_name) from [denver airport](fromloc.airport_name)
+- is there ground transportation in [st. louis](city_name)
+- show me ground transportation in [denver](city_name)
+- i need ground transportation in [seattle](city_name)
+- what is the ground transportation available in [fort worth](city_name) [texas](state_name)
+- show me a list of [rental car](transport_type) fares at [boston airport](airport_name)
+- ground transportation [san francisco](city_name)
+- ground transport [denver](city_name)
+- please list available ground transportation in [pittsburgh](city_name)
+- ground transportation please in the [city of boston](city_name) between airport and downtown
+- what types of ground transportation are available in [denver](city_name)
+- in [denver](city_name) what kind of ground transportation is there from the airport to downtown
+- what ground transportation is available in [denver](city_name)
+- what does ground transportation look like in [oakland](city_name)
+- what ground transportation is available at [baltimore](city_name)
+- tell me about ground transportation between the [dallas fort worth airport](fromloc.airport_name) and downtown [dallas](toloc.city_name)
+- can i get a [taxi](transport_type) from [long beach](fromloc.city_name) airport to downtown [long beach](fromloc.city_name)
+- what ground transportation is available from the [pittsburgh airport](fromloc.airport_name)
+- what ground transportation is available from the [denver airport](fromloc.airport_name) to downtown [denver](toloc.city_name)
+- show me ground transportation in [denver](city_name)
+- what is the ground transportation available in the city of [fort worth](city_name)
+
+
+## intent:meal
+- show me all [meals](meal) on flights from [atlanta](fromloc.city_name) to [washington](toloc.city_name)
+- is there a [meal](meal) on [delta](airline_name) flight [852](flight_number) from [san francisco](fromloc.city_name) to [dallas fort worth](toloc.city_name)
+- what are all the available [meals](meal)
+- what are my [meal](meal) options from [boston](fromloc.city_name) to [denver](toloc.city_name)
+- do i get a [meal](meal) on the [atlanta](fromloc.city_name) to [bwi](toloc.airport_code) flight [eastern](airline_name) [210](flight_number)
+- what types of [meals](meal) are available
+
+
+## intent:quantity
+- please tell me how many [nonstop](flight_stop) flights there are from [boston](fromloc.city_name) to [atlanta](toloc.city_name)
+- how many flights does [delta](airline_name) have with a class of service code [f](fare_basis_code)
+- how many booking classes are there
+- list the number of flights leaving [boston](fromloc.city_name) for [dallas fort worth](toloc.city_name) [before](depart_time.time_relative) [9 am](depart_time.time) in the [morning](depart_time.period_of_day)
+- how many [us air](airline_name) flights leave from [washington](fromloc.city_name)
+- how many flights go from [dallas](fromloc.city_name) to [baltimore](toloc.city_name) on [july](depart_date.month_name) [nineteenth](depart_date.day_number)
+- how many [delta](airline_name) flights leave from [washington](fromloc.city_name)
+- how many flights does [twa](airline_code) have in [business class](class_type)
+- how many stops on [continental](airline_name) [1765](flight_number) from [boston](fromloc.city_name) to [san francisco](toloc.city_name)
+- how many flights does each airline have with [business class](class_type) service
+- how many airlines have flights with service class [yn](fare_basis_code)
+- how many [united](airline_name) flights are there from [san francisco](fromloc.city_name) please
+- how many airports does [oakland](city_name) have
+- how many [first class](class_type) flights does [united](airline_name) have [today](depart_date.today_relative)
+- how many [daily](flight_days) [us air](airline_name) flights are there between [philadelphia](fromloc.city_name) and [pittsburgh](toloc.city_name)
+- how many [first class](class_type) flights does [delta](airline_name) have [today](depart_date.today_relative)
+- how many flights does each airline have with [first class](class_type) service
+- how many flights does [american airlines](airline_name) have from [boston](fromloc.city_name) to [atlanta](toloc.city_name)
+- how many flights has [continental](airline_name) into and out of [atlanta](fromloc.city_name)
+- how many [first class](class_type) flights are provided by [american airlines](airline_name)
+- how many airlines fly from [new york](fromloc.city_name) to [los angeles](toloc.city_name) by way of [milwaukee](stoploc.city_name)
+- how many cities are served by [continental](airline_name) with [first class](class_type) flights
+- how many fares are there [one way](round_trip) from [tacoma](fromloc.city_name) to [montreal](toloc.city_name)
+- how many flights does [american airlines](airline_name) have with a class of service code [f](fare_basis_code)
+- how many flights does [twa](airline_code) have with [business class](class_type)
+- how many cities are served by [eastern](airline_name) with [first class](class_type) flights
+- how many cities are served by [american airline](airline_name) with [first class](class_type) flights
+- how many cities are served by [lufthansa](airline_name) with [first class](class_type) flights
+- how many [first class](class_type) flights does [delta airlines](airline_name) have
+- how many flights does [continental airlines](airline_name) have with a class of service code [f](fare_basis_code)
+- how many cities are served by [twa](airline_code) with [first class](class_type) flights
+- how many [first class](class_type) flights does [united](airline_name) have leaving from all cities [today](depart_date.today_relative)
+- how many flights does [eastern airlines](airline_name) have from [boston](fromloc.city_name) to [atlanta](toloc.city_name)
+- how many flights come from [denver](fromloc.city_name) to [baltimore](toloc.city_name) on [july](depart_date.month_name) [nineteenth](depart_date.day_number)
+- how many [stops](flight_stop) are on all flights from [boston](fromloc.city_name) to [san francisco](toloc.city_name) that depart [before](arrive_time.time_relative) [12 o'clock noon](arrive_time.time)
+- how many flights are there between [san francisco](fromloc.city_name) and [philadelphia](toloc.city_name) on [august](depart_date.month_name) [eighteenth](depart_date.day_number)
+
+
+## intent:restriction
+- what are the air restrictions on flights from [pittsburgh](fromloc.city_name) to [atlanta](toloc.city_name) for the airfare of [416 dollars](fare_amount)
+- what is restriction [ap57](restriction_code)
+- what are the restrictions on the [cheapest](cost_relative) [one way](round_trip) fare between [boston](fromloc.city_name) and [oakland](toloc.city_name)
+- what 's restriction [ap68](restriction_code)
+- what is restriction [ap57](restriction_code)
+- what is restriction [ap80](restriction_code)
+
+
+
+
+
+## intent:position
+- I’d like to know which positions are open right now
+- Can I know about open positions?
+- Do you have [any](roletype) openings?
+- Do you have [any](roletype) opportunities available?
+- I would like to get a job with you
+- do you have jobs
+- I want to join your company
+- A [technical](role_type) one
+- A [business](role_type) one
+- A [tech]{"entity": "role_type", "value": "technical"} one
+- A [management]{"entity": "role_type", "value": "business"} one
+- [technology]{"entity": "role_type", "value": "technical"}
+- [tech]{"entity": "role_type", "value": "technical"}
+- [management]{"entity": "role_type", "value": "business"}
+- [business](role_type)
+- Can I see some of the [business](role_type) roles?
+- Can I see some of the [technical](role_type) roles?
+- Can I see some of the [tech]{"entity": "role_type", "value": "technical"} roles?
+- Can I seeking [tech]{"entity": "role_type", "value": "technical"} roles?
+- Do you have opening in [tech]{"entity": "role_type", "value": "technical"}?
+- how about [tech]{"entity": "role_type", "value": "technical"}?
+- show me [tech]{"entity": "role_type", "value": "technical"} roles
+- can i know about open positions?
+- [technical](role_type)
+- tell me about open positions
+- do you have any vacancies
+- [anything]{"entity": "role_type", "value": "any"}
+- [anything]{"entity": "role_type", "value": "any"} is fine
+- I am open to [anything]{"entity": "role_type", "value": "any"}
+- position
+- [any](roletype) role
+- [any](roletype)
+
+
+## intent:status
+- I applied for a job and would like to know when I’ll hear back.
+- I would like to know about my appilication status.
+- What's the update on my status?
+- Can I have an update on my application status
+- Where can I have an update on my application status
+- what's my application update?
+- May I know what's my application update?
+- I have not heard back on my application status.
+- I have'nt heard about by application.
+
+## intent:name
+- My name is [sam](PERSON)
+- My name is [sam paul](PERSON)
+- I am [Paul](PERSON)
+- I am [paul thomas](PERSON)
+- My name is [George](PERSON)
+- My name is [george xavier](PERSON)
+- This is [Mary](PERSON)
+- [George](PERSON)
+- [george](PERSON)
+- [Mary john](PERSON)
+- [mary](PERSON)
+- [jibin mathew](PERSON)
+
+## intent:profile_info
+- employee details of [Arya](PERSON)
+- show profile of [mathew](PERSON)
+- profile of [mary](PERSON)
+- employee details of [mary](PERSON)
+- profile info of [joseph](PERSON)
+- show profile information of [jibin](PERSON)
+
+## intent:check_transfer
+- I want to get a job transfer from  [Berlin](city) to [San Francisco](city).
+- can I get a job transfer from   [San Francisco](city) to [Berlin](city).
+- apply for a job transfer from [Banglore](city) to [Mumbai](city).
+- apply for a job transfer from [Mumbai](city) to [Banglore](city).
+- apply for a job transfer from [Kochi](city) to [Mumbai](city).
+- I want to get a job transfer from  [Mumbai](city) to [Banglore](city).
+- transfer from [Mumbai](city) to [Banglore](city).
+
+## intent:complaint
+- I want to file a complaint
+- I would like to file a complaint
+- complaint
+- I was abused at workplace.  want to file a complaint
+- I have a complaint against a person
+- complaint against coworker
+- register a complaint
+- complaint form
+- where do I go to file a complaint
+- I have a complaint to report
+
+## intent:apply_leave
+- I would like to apply for leaves from [21 Aug to 23 Aug](leave_date)
+- I want leave from [Sept 2 to Sept 5](leave_date)
+- leave application
+- apply for a leave
+- I wont be able to come to office on [3rd Aug](leave_date)
+- I want leave from [December 3 to December 5](leave_date)
+- please grant me leaves 
+- grant me leaves
+- please grant me leaves on [November 21 and 23](leave_date)
+- I want leaves on [january 5th](leave_date)
+- apply for leave on [january 11](leave_date)
+- apply for leave on [11 january](leave_date)
+- apply for sick leave
+
+## intent:show_leave
+- show my leaves
+- list of leaves
+- can you show my leaves
+- I would like to see my leaves
+- want to see my leaves
+- status of my leave application
+- I want to see the status of my leave application 
+- show all leaves I have applied for
+- any update on my leave application
+- got to my leaves
+- what is the status of my leaves
+
+## intent:announcement
+- show announcements on [policy change](announcement_topic)
+- announcement on [leave policy](announcement_topic)
+- show [all](announcement_topic) announcements
+- list of announcements on [leave policy](announcement_topic)
+- new announcements
+- list of announcements on [recognition](announcement_topic)
+- announcements from [my team](announcement_src) on [employee activities](announcement_topic)
+- announcements from [my manager](announcement_src) on topic [fun activities](announcement_topic)
+- announcements from [HR](announcement_src) on topic [monthly syncup](announcement_topic)
+- show announcements from [NLP team](announcement_src) on topic [ML hackathon](announcement_topic)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## intent:Make Update
+- Upgrading from ubuntu [12.04](UbuntuVersion) to [13.10](UbuntuVersion)
+- Upgrade from [9.10](UbuntuVersion) to [11.04](UbuntuVersion)
+- Upgrading from [11.10](UbuntuVersion) to [12.04](UbuntuVersion)
+- How to upgrade from Ubuntu [10.10](UbuntuVersion) to [11.04](UbuntuVersion)?
+- Upgrade from 12.04 to 12.10 without losing files?(UbuntuVersion)(UbuntuVersion)
+- Using [12.04](UbuntuVersion) can I compile packages with gcc for [10.04](UbuntuVersion)?
+- Upgrading Ubuntu Server [9.10](UbuntuVersion) to 10.04(UbuntuVersion)
+- Upgrade [10.10](UbuntuVersion) to [11.04](UbuntuVersion)
+- How do I update [Xubuntu 11.10](UbuntuVersion) to [Xubuntu 12.04 LTS](UbuntuVersion)?
+- how to upgrade from ubuntu [15.04](UbuntuVersion) to [15.10](UbuntuVersion)?
+- Is it worth upgrading from [12.04 LTS](UbuntuVersion) to [13.04](UbuntuVersion)
+- How to upgrade from [12.10](UbuntuVersion) to [14.04](UbuntuVersion)
+- Upgrading from [10.04](UbuntuVersion) to [11.10](UbuntuVersion)
+- How to upgrade Ubuntu [14.04.1](UbuntuVersion) to [14.04.2](UbuntuVersion)?
+- How can i upgrade to Ubuntu [14.04](UbuntuVersion) final from [14.04 Beta](UbuntuVersion) correctly?
+- Problem upgrading [Ubuntu 9.10](UbuntuVersion)
+- Upgrade to [12.04 64 bit](UbuntuVersion)
+- Upgrading from [10.10](UbuntuVersion) to [11.04](UbuntuVersion) how much space is needed?
+- Doubts regarding the [15.04](UbuntuVersion) upgrade (is it inevitable and unavoidable?)
+- How do I upgrade to the release version of [16.04](UbuntuVersion) if I am running Beta?
+- Cannot upgrade from [12.04LTS](UbuntuVersion) to [14.04](UbuntuVersion)
+- How to upgrade from [14.04 LTS](UbuntuVersion) or [15.10](UbuntuVersion) to [16.04](UbuntuVersion) from terminal
+- Do I need to uninstall 10.04 to upgrade to 12.04?(UbuntuVersion)(UbuntuVersion)
+- Force upgrade [12.10](UbuntuVersion) to [13.04](UbuntuVersion)
+- Is any offline upgrade from [13.10](UbuntuVersion) to [14.04](UbuntuVersion) possible?
+- How to upgrade Ubuntu [9.10](UbuntuVersion) to [12.10](UbuntuVersion) via terminal?
+- How to partially upgrade Ubuntu [11.10](UbuntuVersion) from Ubuntu [11.04](UbuntuVersion)?
+- Problems upgrading from [12.04](UbuntuVersion) to [14.04](UbuntuVersion)
+- Is there an upgrade procedure from [12.04 LTS](UbuntuVersion) to [14.04 LTS](UbuntuVersion)
+- Upgrading from [12.04](UbuntuVersion) to [13.10](UbuntuVersion) ( Unanswered questions )
+- Upgrading From [11.04 (32bit)](UbuntuVersion) to [12.04 (64bit)](UbuntuVersion)
+- Upgrading from Ubuntu [14.04](UbuntuVersion) to [15.04](UbuntuVersion)
+- Is it necessary to upgrade to [15.10](UbuntuVersion) from [14.04](UbuntuVersion)?
+- Do I need to reinstall everything to upgrade from [13.10](UbuntuVersion) to [14.10](UbuntuVersion)?
+- Problems upgrading Ubuntu [12.10](UbuntuVersion) to [13.04](UbuntuVersion)
+- How to upgrade from [16.04 LTS](UbuntuVersion) to [16.04.1 LTS](UbuntuVersion)
+- Upgrading [16.04](UbuntuVersion) to [16.04.1](UbuntuVersion)
+
+## intent:None
+- How to provide user permission to read and write on /dev/sdax? What is the syntax?
+- How can I highlight or annotate PDFs?
+- How is rm command different from the delete button?
+- Torrent client for the command-line?
+- Security enhancements prevent mounting /dev/sdb1
+- How to record my screen?
+
+## intent:Setup Printer
+- How can I install a [Pantum 2502W](Printer) laser printer on Ubuntu
+- How to install a [Lexmark z600](Printer) series printer?
+- Cannot install printer driver [epson l210](Printer)
+- Install printer [Lexmark X4690](Printer) (ubuntu [12.04](UbuntuVersion))
+- How do I install [Dell 2150cdn] printer(Printer)
+- How to Install [Brother DCP-8110DN](Printer) Laser Printer on Ubuntu?
+- How to setup HP printer/scanner on ubuntu?
+- How do I setup my [HP C4140](Printer) printer wirelessly?
+- Installing [Epson XP-424](Printer) wireless printer
+- How to add a network printer on Ubuntu [15.10](UbuntuVersion)?
+- How to install [Canon LBP330](Printer) in [Lts 16.04](UbuntuVersion)
+- How to install a Brother [MFC-5890CN](Printer) network printer?
+- How To Install [Canon LBP2900B](Printer) printer in [14.04 LTS](UbuntuVersion) ? I tried the method for LBP2900 but it didnt work
+- How do I install the [HP F4280](Printer) printer?
+- How Do I Install [Canon MF8000C](Printer) Printer in Ubuntu [15.10](UbuntuVersion)?
+- How to setup wireless printing from a printer connected via usb on Ubuntu Server [12.10](UbuntuVersion)?
+- How do I install drivers for a [Konica Minolta 200](Printer)?
+- No matter what I do Ubuntu [15.04](UbuntuVersion) does not recognize [HP LaserJet 1020](Printer)
+
+## intent:Shutdown Computer
+- Shutdown problem in Ubuntu [16.04](UbuntuVersion)
+- My system doesn't go shutdown
+- How to shutdown the computer after Xsession ends?
+- What is the command to open the shutdown dialog?
+- Are there any Keyboard Shortcuts to Shutdown?
+- How can one shutdown a PC using the keyboard?
+- shutdown in specific way if no-one uses computer
+- what is the right way to shutdown ubuntu using the command line?
+- Shutdown after a certain time
+- shut down without extra question
+- What graphical utility can I use for Ubuntu auto shutdown?
+- No action when shutdown pressed
+- Hotkey to shut down from login screen?
+- Keyboard shortcut to shutdown?
+- How do I shut down without the confirmation prompt?
+- How can I enable shutdown verbosity?
+- What does my computer do when I click 'Shut Down'?
+- How can I shutdown the computer when a certain process ends?
+- shutdown 5:30pm every day
+- How to troubleshoot slow shutdown?
+- How can I automatically shutdown the system after a specific time?
+
+## intent:Software Recommendation
+- What's the best Mind Mapping Software?
+- Please recommend a hex editor for shell
+- On really old Ubuntu 6.06 - How to upgrade(UbuntuVersion)
+- Which PDF Viewer would you recommend?
+- Extracting embedded images from a PDF
+- Any command line calculator for Ubuntu?
+- Tool for recovering deleted data from a flash drive
+- Is there a lightweight tool to crop images quickly?
+- Password Management Applications?
+- What are some good ASCII art generators?
+- Are there any hardware diagnostic tools?
+- Is it recommended to upgrade to [Lubuntu 15.04](UbuntuVersion)?
+- What are some good GUI binary viewers/editors?
+- What new games are available for Ubuntu in 2011?
+- Can you recommend a good modern GUI download manager (wget wrapper?)
+- Which application do you recommend for watching TV (DVB)?
+- [MySQL](SoftwareName) GUI Tools
+- Is there a project management software for Ubuntu like [Microsoft](SoftwareName) Project?
+- Removing Recently used items in [12.04](UbuntuVersion)
+- Is there an application for reading mobi files?
+- What do you use to edit Microsoft [Word](SoftwareName) documents (docx)?
+- Software to create a video slideshow?
+- What software can I use to view epub documents?
+- What's a simple "colour picker" app for GNOME?
+- What Is The Best HDR Software?
+- A light alternative to gnome-system-monitor?
+- Is there any program for fuzzy string matching which provides a match score?
+- Is there an SSH connection manager?
+- Is there any recovery software available for ext4?
+- Is there a Linux file manager with a proper drop-down tree view? (like finder in OS X)
+- Any app that tells me to take regular breaks from working?
+- What scientific plotting software is available?
+- Software to read a QR code?
+- What blog editor software are available?
+- What's the best Wireframing tool?
+- What developer text editors are available for Ubuntu?
+- What [IRC](SoftwareName) clients are available?
+- Is there any software that will do face recognition in photos?
+- What screenshot tools are available?
+- UPNP / DLNA (client) player recommendations?
+- Wubi Device /dev/loop0 full. How to get more space?
+- In [Unity](SoftwareName) how do I see the details of a given launcher?
+- Applications to replace [iTunes](SoftwareName) for iPod synchronization?
+- Is there LAN topology mapping software available in Ubuntu?
+- What is a good [MongoDB](SoftwareName) GUI client?
+
