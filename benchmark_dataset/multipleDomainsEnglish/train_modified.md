@@ -1,4 +1,5 @@
-## intent:Make Update- Upgrading from ubuntu [12.04](UbuntuVersion) to [13.10](UbuntuVersion)
+## intent:Make Update
+- Upgrading from ubuntu [12.04](UbuntuVersion) to [13.10](UbuntuVersion)
 - Upgrade from [9.10](UbuntuVersion) to [11.04](UbuntuVersion)
 - Upgrading from [11.10](UbuntuVersion) to [12.04](UbuntuVersion)
 - How to upgrade from Ubuntu [10.10](UbuntuVersion) to [11.04](UbuntuVersion)?
@@ -36,14 +37,16 @@
 - How to upgrade from [16.04 LTS](UbuntuVersion) to [16.04.1 LTS](UbuntuVersion)
 - Upgrading [16.04](UbuntuVersion) to [16.04.1](UbuntuVersion)
 
-## intent:None- How to provide user permission to read and write on /dev/sdax? What is the syntax?
+## intent:None
+- How to provide user permission to read and write on /dev/sdax? What is the syntax?
 - How can I highlight or annotate PDFs?
 - How is rm command different from the delete button?
 - Torrent client for the command-line?
 - Security enhancements prevent mounting /dev/sdb1
 - How to record my screen?
 
-## intent:Setup Printer- How can I install a [Pantum 2502W](Printer) laser printer on Ubuntu
+## intent:Setup Printer
+- How can I install a [Pantum 2502W](Printer) laser printer on Ubuntu
 - How to install a [Lexmark z600](Printer) series printer?
 - Cannot install printer driver [epson l210](Printer)
 - Install printer [Lexmark X4690](Printer) (ubuntu [12.04](UbuntuVersion))
@@ -62,7 +65,8 @@
 - How do I install drivers for a [Konica Minolta 200](Printer)?
 - No matter what I do Ubuntu [15.04](UbuntuVersion) does not recognize [HP LaserJet 1020](Printer)
 
-## intent:Shutdown Computer- Shutdown problem in Ubuntu [16.04](UbuntuVersion)
+## intent:Shutdown Computer
+- Shutdown problem in Ubuntu [16.04](UbuntuVersion)
 - My system doesn't go shutdown
 - How to shutdown the computer after Xsession ends?
 - What is the command to open the shutdown dialog?
@@ -84,7 +88,8 @@
 - How to troubleshoot slow shutdown?
 - How can I automatically shutdown the system after a specific time?
 
-## intent:Software Recommendation- What's the best Mind Mapping Software?
+## intent:Software Recommendation
+- What's the best Mind Mapping Software?
 - Please recommend a hex editor for shell
 - On really old Ubuntu 6.06 - How to upgrade(UbuntuVersion)
 - Which PDF Viewer would you recommend?
@@ -131,7 +136,8 @@
 - What is a good [MongoDB](SoftwareName) GUI client?
 
 
-## intent:abbreviation- what is fare code [h](fare_basis_code)
+## intent:abbreviation
+- what is fare code [h](fare_basis_code)
 - what is booking class [c](fare_basis_code)
 - what does fare code [q](fare_basis_code) mean
 - what is fare code [qw](fare_basis_code)
@@ -280,7 +286,8 @@
 - what does fare code [qo](fare_basis_code) mean
 
 
-## intent:aircraft- what kind of aircraft is used on a flight from [cleveland](fromloc.city_name) to [dallas](toloc.city_name)
+## intent:aircraft
+- what kind of aircraft is used on a flight from [cleveland](fromloc.city_name) to [dallas](toloc.city_name)
 - what kinds of planes are used by [american airlines](airline_name)
 - what types of aircraft does [delta](airline_name) fly
 - on the [8 am](depart_time.time) flight from [san francisco](fromloc.city_name) to [atlanta](toloc.city_name) what type of aircraft is used
@@ -363,10 +370,12 @@
 - what type of aircraft are used on flights from [cleveland](fromloc.city_name) to [dallas](toloc.city_name) that leave [before](depart_time.time_relative) [noon](depart_time.time)
 
 
-## intent:aircraft and flight and flight_no- i want to fly from [detroit](fromloc.city_name) to [st. petersburg](toloc.city_name) on [northwest airlines](airline_name) and leave [around](depart_time.time_relative) [9 am](depart_time.time) tell me what aircraft are used by this flight and tell me the flight number
+## intent:aircraft and flight and flight_no
+- i want to fly from [detroit](fromloc.city_name) to [st. petersburg](toloc.city_name) on [northwest airlines](airline_name) and leave [around](depart_time.time_relative) [9 am](depart_time.time) tell me what aircraft are used by this flight and tell me the flight number
 
 
-## intent:airfare- [cheapest](cost_relative)airfare from [tacoma](fromloc.city_name) to [orlando](toloc.city_name)
+## intent:airfare
+- [cheapest](cost_relative)airfare from [tacoma](fromloc.city_name) to [orlando](toloc.city_name)
 - [round trip](round_trip)fares from [pittsburgh](fromloc.city_name) to [philadelphia](toloc.city_name) [under](cost_relative) [1000 dollars](fare_amount)
 - show me the [first class](class_type) fares from [boston](fromloc.city_name) to [denver](toloc.city_name)
 - i 'd like to have some information on a ticket from [denver](fromloc.city_name) to [pittsburgh](toloc.city_name) and [atlanta](toloc.city_name)
@@ -791,10 +800,12 @@
 - what is the airfare for flights from [denver](fromloc.city_name) to [pittsburgh](toloc.city_name) on [delta airline](airline_name)
 
 
-## intent:airfare and flight_time- show me the costs and [times](flight_time) for flights from [san francisco](fromloc.city_name) to [atlanta](toloc.city_name)
+## intent:airfare and flight_time
+- show me the costs and [times](flight_time) for flights from [san francisco](fromloc.city_name) to [atlanta](toloc.city_name)
 
 
-## intent:airport- what 's the airport at [orlando](city_name)
+## intent:airport
+- what 's the airport at [orlando](city_name)
 - give me a list of airports in [baltimore](city_name)
 - [houston](city_name)airports
 - please list information regarding [san francisco airport](airport_name)
@@ -816,7 +827,8 @@
 - show me airports in [washington](city_name) [dc](state_code)
 
 
-## intent:airline- which airline serves [denver](fromloc.city_name) [pittsburgh](fromloc.city_name) and [atlanta](fromloc.city_name)
+## intent:airline
+- which airline serves [denver](fromloc.city_name) [pittsburgh](fromloc.city_name) and [atlanta](fromloc.city_name)
 - show me the airlines with [first class](class_type) flights
 - which airline has the [most](mod) arrivals in [atlanta](toloc.city_name)
 - what airlines fly from [new york](fromloc.city_name) to [milwaukee](stoploc.city_name) to [los angeles](toloc.city_name)
@@ -975,11 +987,13 @@
 - which airlines fly into and out of [denver](city_name)
 
 
-## intent:airline and flight_no- airline and flight number from [columbus](fromloc.city_name) to [minneapolis](toloc.city_name)
+## intent:airline and flight_no
+- airline and flight number from [columbus](fromloc.city_name) to [minneapolis](toloc.city_name)
 - may i please see airlines and flight numbers from [new york](fromloc.city_name) to [toronto](toloc.city_name) on the [same](depart_date.date_relative) date [june](depart_date.month_name) [seventeenth](depart_date.day_number) also arriving in [toronto](toloc.city_name) [before](arrive_time.time_relative) [noon](arrive_time.time) thank you
 
 
-## intent:capacity- how many seats in a [100](aircraft_code)
+## intent:capacity
+- how many seats in a [100](aircraft_code)
 - how many passengers fit on a [d9s](aircraft_code)
 - how many seats in a [72s](aircraft_code)
 - what is the [total](mod) seating capacity of all aircraft of [american airlines](airline_name)
@@ -997,10 +1011,12 @@
 - how many passengers can a boeing [737](aircraft_code) hold
 
 
-## intent:cheapest- show me the [cheapest](cost_relative) fare in the database
+## intent:cheapest
+- show me the [cheapest](cost_relative) fare in the database
 
 
-## intent:city- what city is the airport [mco](fromloc.airport_code) in
+## intent:city
+- what city is the airport [mco](fromloc.airport_code) in
 - where is [mco](airport_code)
 - where is [general mitchell international](airport_name) located
 - where is [general mitchell international](airport_name) located
@@ -1021,7 +1037,8 @@
 - what city is [mco](airport_code)
 
 
-## intent:distance- how far is it from [orlando airport](fromloc.airport_name) to [orlando](toloc.city_name)
+## intent:distance
+- how far is it from [orlando airport](fromloc.airport_name) to [orlando](toloc.city_name)
 - what is the distance from [los angeles international airport](fromloc.airport_name) to [los angeles](toloc.city_name)
 - tell me distance from [orlando airport](fromloc.airport_name) to the city
 - how far is downtown from the airport in [dallas](fromloc.city_name)
@@ -1043,7 +1060,8 @@
 - how long is the flight from [atlanta](fromloc.city_name) to [san francisco](toloc.city_name) at [noon](depart_time.time) on [november](depart_date.month_name) [seventh](depart_date.day_number)
 
 
-## intent:flight- i want to fly from [boston](fromloc.city_name) at [838 am](depart_time.time) and arrive in [denver](toloc.city_name) at [1110](arrive_time.time) in the [morning](arrive_time.period_of_day)
+## intent:flight
+- i want to fly from [boston](fromloc.city_name) at [838 am](depart_time.time) and arrive in [denver](toloc.city_name) at [1110](arrive_time.time) in the [morning](arrive_time.period_of_day)
 - what flights are available from [pittsburgh](fromloc.city_name) to [baltimore](toloc.city_name) on [thursday](depart_date.day_name) [morning](depart_time.period_of_day)
 - i need a flight [tomorrow](depart_date.today_relative) from [columbus](fromloc.city_name) to [minneapolis](toloc.city_name)
 - show me the flights from [pittsburgh](fromloc.city_name) to [los angeles](toloc.city_name) on [thursday](depart_date.day_name)
@@ -4711,7 +4729,8 @@
 - is there a [delta](airline_name) flight from [denver](fromloc.city_name) to [san francisco](toloc.city_name)
 
 
-## intent:flight and airfare- give me the flights and fares on [december](depart_date.month_name) [twenty seventh](depart_date.day_number) from [indianapolis](fromloc.city_name) to [orlando](toloc.city_name)
+## intent:flight and airfare
+- give me the flights and fares on [december](depart_date.month_name) [twenty seventh](depart_date.day_number) from [indianapolis](fromloc.city_name) to [orlando](toloc.city_name)
 - all flights and fares from [atlanta](fromloc.city_name) to [dallas](toloc.city_name) [round trip](round_trip) [after](depart_time.time_relative) [12 pm](depart_time.time) [less](cost_relative) than [1100 dollars](fare_amount)
 - [first](flight_mod)flights and fares from [pittsburgh](fromloc.city_name) to [atlanta](toloc.city_name) on a [thursday](depart_date.day_name)
 - all flights and fares from [atlanta](fromloc.city_name) to [dallas](toloc.city_name) [round trip](round_trip) [after](depart_time.time_relative) [12 pm](depart_time.time) [less](cost_relative) than [1100 dollars](fare_amount)
@@ -4734,7 +4753,8 @@
 - give me the flights and fares on [december](depart_date.month_name) [twenty seventh](depart_date.day_number) from [orlando](fromloc.city_name) to [indianapolis](toloc.city_name) airfare
 
 
-## intent:flight_time- what is the [arrival time](flight_time) in [san francisco](fromloc.city_name) for the [755 am](depart_time.time) flight leaving [washington](fromloc.city_name)
+## intent:flight_time
+- what is the [arrival time](flight_time) in [san francisco](fromloc.city_name) for the [755 am](depart_time.time) flight leaving [washington](fromloc.city_name)
 - what are the [times](flight_time) that you have planes leaving from [san francisco](fromloc.city_name) going to [pittsburgh](toloc.city_name) on [july](depart_date.month_name) [seventh](depart_date.day_number)
 - on [united airlines](airline_name) give me the [flight times](flight_time) from [boston](fromloc.city_name) to [dallas](toloc.city_name)
 - what are the [schedule](flight_time) of flights from [boston](fromloc.city_name) to [san francisco](toloc.city_name) for [august](depart_date.month_name) [first](depart_date.day_number)
@@ -4790,7 +4810,8 @@
 - can you tell me the [time](flight_time) a flight would leave from [atlanta](fromloc.city_name) to [boston](toloc.city_name) in the [afternoon](depart_time.period_of_day)
 
 
-## intent:flight_no- flight numbers from [columbus](fromloc.city_name) to [minneapolis](toloc.city_name) [tomorrow](depart_date.today_relative)
+## intent:flight_no
+- flight numbers from [columbus](fromloc.city_name) to [minneapolis](toloc.city_name) [tomorrow](depart_date.today_relative)
 - i 'm trying to find the flight number from a flight from [orlando](fromloc.city_name) to [cleveland](toloc.city_name) on [us air](airline_name) and it arrives [around](arrive_time.time_relative) [10 pm](arrive_time.time)
 - flight numbers from [minneapolis](fromloc.city_name) to [long beach](toloc.city_name) on [june](depart_date.month_name) [twenty six](depart_date.day_number)
 - please show me the return flight number from [toronto](fromloc.city_name) to [st. petersburg](toloc.city_name)
@@ -4804,7 +4825,8 @@
 - what are the flight numbers of the flights which go from [san francisco](fromloc.city_name) to [washington](toloc.city_name) via [indianapolis](stoploc.city_name)
 
 
-## intent:ground_fare- how much does the [limousine](transport_type) service cost within [pittsburgh](city_name)
+## intent:ground_fare
+- how much does the [limousine](transport_type) service cost within [pittsburgh](city_name)
 - how much does it cost to rent a [car](transport_type) in [tacoma](city_name)
 - what are the costs of [car rental](transport_type) in [dallas](city_name)
 - how much does it cost to get downtown from the [atlanta airport](fromloc.airport_name) by [limousine](transport_type)
@@ -4824,7 +4846,8 @@
 - please list the prices for a [rental car](transport_type) in [pittsburgh](city_name)
 
 
-## intent:ground_service- what kind of ground transportation is available in [denver](city_name)
+## intent:ground_service
+- what kind of ground transportation is available in [denver](city_name)
 - show me the ground transportation in [denver](city_name)
 - [atlanta](city_name)ground transportation
 - show me information on ground transportation for [dallas](city_name)
@@ -5081,10 +5104,12 @@
 - what is the ground transportation available in the city of [fort worth](city_name)
 
 
-## intent:ground_service and ground_fare- what ground transportation is available from the [pittsburgh airport](fromloc.airport_name) to downtown and how much does it cost
+## intent:ground_service and ground_fare
+- what ground transportation is available from the [pittsburgh airport](fromloc.airport_name) to downtown and how much does it cost
 
 
-## intent:meal- show me all [meals](meal) on flights from [atlanta](fromloc.city_name) to [washington](toloc.city_name)
+## intent:meal
+- show me all [meals](meal) on flights from [atlanta](fromloc.city_name) to [washington](toloc.city_name)
 - is there a [meal](meal) on [delta](airline_name) flight [852](flight_number) from [san francisco](fromloc.city_name) to [dallas fort worth](toloc.city_name)
 - what are all the available [meals](meal)
 - what are my [meal](meal) options from [boston](fromloc.city_name) to [denver](toloc.city_name)
@@ -5092,7 +5117,8 @@
 - what types of [meals](meal) are available
 
 
-## intent:quantity- please tell me how many [nonstop](flight_stop) flights there are from [boston](fromloc.city_name) to [atlanta](toloc.city_name)
+## intent:quantity
+- please tell me how many [nonstop](flight_stop) flights there are from [boston](fromloc.city_name) to [atlanta](toloc.city_name)
 - how many flights does [delta](airline_name) have with a class of service code [f](fare_basis_code)
 - how many booking classes are there
 - list the number of flights leaving [boston](fromloc.city_name) for [dallas fort worth](toloc.city_name) [before](depart_time.time_relative) [9 am](depart_time.time) in the [morning](depart_time.period_of_day)
@@ -5145,14 +5171,16 @@
 - how many flights are there between [san francisco](fromloc.city_name) and [philadelphia](toloc.city_name) on [august](depart_date.month_name) [eighteenth](depart_date.day_number)
 
 
-## intent:restriction- what are the air restrictions on flights from [pittsburgh](fromloc.city_name) to [atlanta](toloc.city_name) for the airfare of [416 dollars](fare_amount)
+## intent:restriction
+- what are the air restrictions on flights from [pittsburgh](fromloc.city_name) to [atlanta](toloc.city_name) for the airfare of [416 dollars](fare_amount)
 - what is restriction [ap57](restriction_code)
 - what are the restrictions on the [cheapest](cost_relative) [one way](round_trip) fare between [boston](fromloc.city_name) and [oakland](toloc.city_name)
 - what 's restriction [ap68](restriction_code)
 - what is restriction [ap57](restriction_code)
 - what is restriction [ap80](restriction_code)
 
-## intent:alarm_set_alarm- start alarm [for](B-datetime) [10](I-datetime) [minutes](I-datetime)
+## intent:alarm_set_alarm
+- start alarm [for](B-datetime) [10](I-datetime) [minutes](I-datetime)
 - set an alarm [every](B-datetime) [friday](I-datetime) [at](I-datetime) [4pm](I-datetime)
 - set my work alarm [for](B-datetime) [6](I-datetime) [:](I-datetime) [45am](I-datetime)
 - set an alarm [for](B-datetime) [3](I-datetime) [pm](I-datetime) [mondays](I-datetime) [,](I-datetime) [tuesdays](I-datetime) [,](I-datetime) [and](I-datetime) [thursdays](I-datetime) for karate practice .
@@ -9071,7 +9099,8 @@
 - set an alarm [for](B-datetime) [every](I-datetime) [4](I-datetime) [hours](I-datetime)
 
 
-## intent:alarm_show_alarms- do i have any alarms set [for](B-datetime) [tonight](I-datetime) ?
+## intent:alarm_show_alarms
+- do i have any alarms set [for](B-datetime) [tonight](I-datetime) ?
 - show me all alarms please
 - what is my alarm set [for](B-datetime) [today](I-datetime) ?
 - show all of my current alarms
@@ -9778,7 +9807,8 @@
 - show me my alarms .
 
 
-## intent:alarm_cancel_alarm- delete my [daily](B-datetime) alarm
+## intent:alarm_cancel_alarm
+- delete my [daily](B-datetime) alarm
 - remove the rest of my alarms [for](B-datetime) [today](I-datetime)
 - cancel all my alarms , please
 - dont wake me up [tomorrow](B-datetime)
@@ -11087,7 +11117,8 @@
 - cancel all the alarms [for](B-datetime) [this](I-datetime) [weekend](I-datetime)
 
 
-## intent:alarm_snooze_alarm- snooze that alarm
+## intent:alarm_snooze_alarm
+- snooze that alarm
 - snooze alarm [for](B-datetime) [five](I-datetime) [minutes](I-datetime)
 - snooze alarm [for](B-datetime) [15](I-datetime) [minutes](I-datetime) .
 - let me sleep [for](B-datetime) [one](I-datetime) [hour](I-datetime)
@@ -11349,7 +11380,8 @@
 - snooze alarm [every](B-datetime) [5](I-datetime) [minutes](I-datetime)
 
 
-## intent:alarm_modify_alarm- change my [7am](B-datetime) alarm [for](B-datetime) [tomorrow](I-datetime) [to](I-datetime) [8am](I-datetime)
+## intent:alarm_modify_alarm
+- change my [7am](B-datetime) alarm [for](B-datetime) [tomorrow](I-datetime) [to](I-datetime) [8am](I-datetime)
 - move [7am](B-datetime) alarm [to](B-datetime) [8](I-datetime)
 - change my alarm [from](B-datetime) [9](I-datetime) [pm](I-datetime) [to](I-datetime) [10](I-datetime) [pm](I-datetime)
 - change my [daily](B-datetime) alarm [to](B-datetime) [8](I-datetime) [:](I-datetime) [15](I-datetime) [am](I-datetime) .
@@ -11750,7 +11782,8 @@
 - add [10](B-datetime) [minutes](I-datetime) to my alarm times
 
 
-## intent:alarm_time_left_on_alarm- tell me how much time is left on the next alarm
+## intent:alarm_time_left_on_alarm
+- tell me how much time is left on the next alarm
 - how much time is left before the alarm goes off ?
 - how much longer left on my [1pm](B-datetime) alarm
 - how much time do i have left before my alarm
@@ -12022,7 +12055,8 @@
 - how much time is left for the alarm i set
 
 
-## intent:reminder_set_reminder- add [reminder](B-reminder/noun) to [do](B-reminder/todo) [laundry](I-reminder/todo) [tomorrow](B-datetime)
+## intent:reminder_set_reminder
+- add [reminder](B-reminder/noun) to [do](B-reminder/todo) [laundry](I-reminder/todo) [tomorrow](B-datetime)
 - i want to be reminded to [wash](B-reminder/todo) [dog](I-reminder/todo)
 - remind me that i have a [meeting](B-reminder/todo) [tomorrow](B-datetime) after school
 - remind me to [pick](B-reminder/todo) [up](I-reminder/todo) [my](I-reminder/todo) [package](I-reminder/todo) [from](I-reminder/todo) [the](I-reminder/todo) [post](I-reminder/todo) [office](I-reminder/todo) [after](I-reminder/todo) [work](I-reminder/todo) [today](B-datetime) .
@@ -16106,7 +16140,8 @@
 - [remind](B-reminder/noun) me to [get](B-reminder/todo) [eggs](I-reminder/todo) [at](I-reminder/todo) [the](I-reminder/todo) [store](I-reminder/todo) .
 
 
-## intent:reminder_cancel_reminder- cancel my [reminder](B-reminder/noun) to [pick](B-reminder/todo) [taylor](I-reminder/todo) [up](I-reminder/todo)
+## intent:reminder_cancel_reminder
+- cancel my [reminder](B-reminder/noun) to [pick](B-reminder/todo) [taylor](I-reminder/todo) [up](I-reminder/todo)
 - cancel the [last](B-reminder/reference) [reminder](B-reminder/noun) , please
 - cancel [reminder](B-reminder/noun) to [call](B-reminder/todo) [millie](I-reminder/todo)
 - cancel [reminders](B-reminder/noun)
@@ -16922,7 +16957,8 @@
 - cancel [milk](B-reminder/todo) [reminder](B-reminder/noun)
 
 
-## intent:reminder_show_reminders- show [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
+## intent:reminder_show_reminders
+- show [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
 - show the [first](B-reminder/reference) [reminder](B-reminder/noun) of the day ?
 - review [tonight's](B-datetime) [reminders](B-reminder/noun) , please .
 - do i have any [reminders](B-reminder/noun) [for](B-datetime) [today](I-datetime)
@@ -17524,7 +17560,8 @@
 - show all [reminders](B-reminder/noun) [for](B-datetime) [last](I-datetime) [week](I-datetime)
 
 
-## intent:weather_find- it is calling for [rain](B-weather/attribute) [today](B-datetime) . when will it start ?
+## intent:weather_find
+- it is calling for [rain](B-weather/attribute) [today](B-datetime) . when will it start ?
 - is it going to [freeze](B-weather/attribute) ?
 - how should i [dress](B-weather/noun) [for](B-datetime) [today](I-datetime) ?
 - what is the [weather](B-weather/noun) at [hampton](B-location) [beach](I-location) [this](B-datetime) [weekend](I-datetime) ?
@@ -27989,7 +28026,8 @@
 - will it be [below](B-weather/attribute) [29](B-weather/attribute) [degree](B-weather/noun) [celcius](B-weather/temperatureUnit) near [karachi](B-location)
 
 
-## intent:weather_checkSunrise- what time does the sun rise in [houston](B-location)
+## intent:weather_checkSunrise
+- what time does the sun rise in [houston](B-location)
 - what time is the sun supposed to rise [today](B-datetime)
 - what time does the sun come up in bejing
 - what time will the [sun](B-weather/attribute) [rise](I-weather/attribute) [tomorrow](B-datetime) ?
@@ -28070,7 +28108,8 @@
 - at what time will the sun rise
 
 
-## intent:weather_checkSunset- what time is [tonight's](B-datetime) [sunset](B-datetime)
+## intent:weather_checkSunset
+- what time is [tonight's](B-datetime) [sunset](B-datetime)
 - what time does the sun set in new orleans
 - when is sunset [on](B-datetime) [friday](I-datetime) ?
 - what time does the sun set this time of year in my city
@@ -28174,7 +28213,8 @@
 - what time does the sun set [today](B-datetime)
 - what time does the [sun](B-weather/noun) set [tonight](B-datetime)
 
-## intent:AddToPlaylist- Add another [song](music_item) to the [Cita Romántica](playlist) playlist.
+## intent:AddToPlaylist
+- Add another [song](music_item) to the [Cita Romántica](playlist) playlist.
 - add [clem burke](artist) in [my](playlist_owner) playlist [Pre-Party R&B Jams](playlist)
 - Add [Live from Aragon Ballroom](entity_name) to [Trapeo](playlist)
 - add [Unite and Win](entity_name) to [my](playlist_owner) [night out](playlist)
@@ -30119,7 +30159,8 @@
 - add [artist](music_item) to [my](playlist_owner) [friendesemana](playlist) playlist
 
 
-## intent:BookRestaurant- book [The Middle East](restaurant_name) [restaurant](restaurant_type) in [IN](state) for [noon](timeRange)
+## intent:BookRestaurant
+- book [The Middle East](restaurant_name) [restaurant](restaurant_type) in [IN](state) for [noon](timeRange)
 - Book a table at [T-Rex](restaurant_name) [distant](spatial_relation) from [Halsey St](poi).
 - I'd like to eat at a [taverna](restaurant_type) that serves [chili con carne](served_dish) for a party of [10](party_size_number)
 - I have a party of [four](party_size_number) in [Japan](country) and need a reservation at [Rimsky-Korsakoffee House](restaurant_name) on [Aug. the 3rd](timeRange).
@@ -32094,7 +32135,8 @@
 - Book a [brasserie restaurant](restaurant_type) at [18:28](timeRange) and order [wings](served_dish).
 
 
-## intent:GetWeather- What will the weather be [this year](timeRange) in [Horseshoe Lake State Fish and Wildlife Area](geographic_poi)?
+## intent:GetWeather
+- What will the weather be [this year](timeRange) in [Horseshoe Lake State Fish and Wildlife Area](geographic_poi)?
 - Will it be [sunny](condition_description) [one hundred thirty five days from now](timeRange) in [Monterey Bay National Marine Sanctuary](geographic_poi)
 - Is it supposed to [rain](condition_description) [nearby](spatial_relation) my [current location](current_location) at [0 o'clock](timeRange)?
 - what is the forecast starting on [september 1, 2039](timeRange) for [chillier](condition_temperature) conditions in [AK](state)
@@ -34097,7 +34139,8 @@
 - What is the weather forecast for my [current spot](current_location) on [Jan. third, 2036](timeRange)
 
 
-## intent:RateBook- rate [The Lotus and the Storm](object_name) [zero](rating_value) of [6](best_rating)
+## intent:RateBook
+- rate [The Lotus and the Storm](object_name) [zero](rating_value) of [6](best_rating)
 - Rate [The Fall-Down Artist](object_name) [5](rating_value) [stars](rating_unit).
 - Rate the [current](object_select) [novel](object_type) [one](rating_value) [points](rating_unit)
 - rate [The Ape-Man Within](object_name) [4](rating_value)
@@ -36070,7 +36113,8 @@
 - Rate [this](object_select) [essay](object_type) [zero](rating_value) [stars](rating_unit) out of [6](best_rating)
 
 
-## intent:SearchCreativeWork- find the [soundtrack](object_type) titled [This Side of Paradise](object_name)
+## intent:SearchCreativeWork
+- find the [soundtrack](object_type) titled [This Side of Paradise](object_name)
 - find a [book](object_type) called [The Mad Magician](object_name)
 - find the [picture](object_type) [Louder Than Bombs](object_name)
 - show creative work of [Through the Back Door](object_name)
@@ -38026,7 +38070,8 @@
 - Find a [video game](object_type) called [The Last American Virgin](object_name).
 
 
-## intent:SearchScreeningEvent- What are the [movie schedule](object_type) at [Malco Theatres](location_name)
+## intent:SearchScreeningEvent
+- What are the [movie schedule](object_type) at [Malco Theatres](location_name)
 - I want to get the [movie schedule](object_type)
 - Show me movie time for [I Am Sorry](movie_name)  at my [movie house](object_location_type)
 - Find time for [Trouble for Two](movie_name) [in one minute](timeRange) at [Landmark Theatres](location_name)
@@ -39988,7 +40033,8 @@
 - What [cinema](object_location_type) has the [closest](spatial_relation) [movies](movie_type)
 
 
-## intent:PlayMusic- I need to hear the [song](music_item) [Aspro Mavro](track) from [Bill Szymczyk](artist) on [Youtube](service)
+## intent:PlayMusic
+- I need to hear the [song](music_item) [Aspro Mavro](track) from [Bill Szymczyk](artist) on [Youtube](service)
 - play [Yo Ho](track) from [the new york pops](artist) on [Youtube](service)
 - Play some [seventies](year) music by [Janne Puurtinen](artist) on [Youtube](service).
 - play the [MÃºsica Da SÃ©rie De Filmes O Hobbit](album) [album](music_item) by [Alex Otaola](artist)
